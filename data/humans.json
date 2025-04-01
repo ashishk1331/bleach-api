@@ -3,13 +3,13 @@
         "id": "keigo_asano",
         "name": {
             "english": "Keigo Asano",
-            "kanji": "浅野 啓吾",
+            "kanji": "\u6d45\u91ce \u5553\u543e",
             "romaji": "Asano Keigo"
         },
-        "description": "Keigo Asano (浅野 啓吾, Asano Keigo) is a student at the Karakura High School, in the same class as Ichigo Kurosaki. Twelve years after Ichigo defeated Yhwach, Keigo opened up a Ramen shop. Keigo is a teenager with medium-long brown hair, which flips outward. He has brown eyes and a slim figure. His expression usually stays the same with either frowns or pouts, but whenever a girl is involved, he smiles. At school, he wears the standard Karakura High School uniform.",
+        "description": "Keigo Asano (\u6d45\u91ce \u5553\u543e, Asano Keigo) is a student at the Karakura High School, in the same class as Ichigo Kurosaki. Twelve years after Ichigo defeated Yhwach, Keigo opened up a Ramen shop. Keigo is a teenager with medium-long brown hair, which flips outward. He has brown eyes and a slim figure. His expression usually stays the same with either frowns or pouts, but whenever a girl is involved, he smiles. At school, he wears the standard Karakura High School uniform.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/2/20/686Keigo_profile.png/revision/latest?cb=20200322083029&path-prefix=en",
-            "https://static.wikia.nocookie.net/bleach/images/2/23/Ep343KeigoProfile2.png/revision/latest?cb=20221009013646&path-prefix=en",
+            "https://static.wikia.nocookie.net/bleach/images/2/23/Ep343KeigoProfile2.png/revision/latest?cb=20231105042300&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/0/0f/Ep2KeigoProfile.png/revision/latest?cb=20210311232518&path-prefix=en"
         ],
         "stats": {
@@ -40,7 +40,7 @@
             "Voices": {
                 "japanese": "Katsuyuki Konishi",
                 "english": "Yuri Lowenthal",
-                "spanish": "Benjamín Rivera"
+                "spanish": "Benjam\u00edn Rivera"
             }
         },
         "media": [
@@ -49,7 +49,7 @@
                 "alt": "2013"
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/2/23/Ep343KeigoProfile2.png/revision/latest?cb=20221009013646&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/2/23/Ep343KeigoProfile2.png/revision/latest?cb=20231105042300&path-prefix=en",
                 "alt": "2003"
             },
             {
@@ -90,7 +90,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d8/Ep143KeigoMizuiroWatch.png/revision/latest?cb=20230528200236&path-prefix=en",
-                "alt": "Keigo spying on Ichigo."
+                "alt": "Keigo watches as Ichigo leaves for Hueco Mundo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/dc/Ep302KeigoTatsukiCarryClassmates.png/revision/latest?cb=20220914155122&path-prefix=en",
@@ -102,7 +102,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a7/Ep306KeigoWithZanpakuto.png/revision/latest?cb=20190417052706&path-prefix=en",
-                "alt": "Keigo with Zennosuke's Zanpakutō."
+                "alt": "Keigo with Zennosuke's Zanpakut\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/34/Keigo_and_Mizuiro_wait.png/revision/latest?cb=20140403112333&path-prefix=en",
@@ -113,28 +113,29 @@
                 "alt": "Keigo, worried about Tsukishima."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/1/1f/546Keigo_confronts.png/revision/latest?cb=20170901165355&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/1/1f/546Keigo_confronts.png/revision/latest?cb=20240605182649&path-prefix=en",
                 "alt": "Keigo confronts Shunsui over Ichigo's situation."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/7/75/NBFHIchigo_chats.png/revision/latest?cb=20210809170427&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/75/NBFHIchigo_chats.png/revision/latest?cb=20230903201709&path-prefix=en",
                 "alt": "Keigo is offended by Ichigo's mockery of his ramen bar."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/1d/Ep214KeigoRaizerSpeed.png/revision/latest?cb=20190203200319&path-prefix=en",
                 "alt": "Keigo running away using his enhanced speed."
             }
-        ]
+        ],
+        "slug": "keigo-asano"
     },
     {
         "id": "mizuho_asano",
         "name": {
             "english": "Mizuho Asano",
-            "kanji": "浅野 みづ穂",
+            "kanji": "\u6d45\u91ce \u307f\u3065\u7a42",
             "romaji": "Asano Mizuho"
         },
-        "description": "Mizuho Asano (浅野 みづ穂, Asano Mizuho) is the older sister of Keigo Asano. She is the 24th Student Council President at Karakura 1st High School and handles multiple school affairs, including the local Kendo Club. Mizuho has long brown hair that she ties up in a ponytail with a purple hairpiece and keeps long bangs on both sides of her face. She has slightly thick eyebrows and brown eyes. While in school, she wears the typical Karakura High School outfit.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/52/Ep229MizuhoProfile2.png/revision/latest?cb=20220807024209&path-prefix=en",
+        "description": "Mizuho Asano (\u6d45\u91ce \u307f\u3065\u7a42, Asano Mizuho) is the older sister of Keigo Asano. She is the 24th Student Council President at Karakura 1st High School[2] and handles multiple school affairs, including the local Kendo Club. Mizuho has long brown hair that she ties up in a ponytail with a purple hairpiece and keeps long bangs on both sides of her face. She has slightly thick eyebrows and brown eyes. While in school, she wears the typical Karakura High School outfit.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/52/Ep229MizuhoProfile2.png/revision/latest?cb=20231105042438&path-prefix=en",
         "stats": {
             "race": "Human",
             "birthday": "April 2",
@@ -159,16 +160,22 @@
                 "english": "Erin Fitzgerald"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/5/52/Ep229MizuhoProfile2.png/revision/latest?cb=20231105042438&path-prefix=en",
+                "alt": "Ep229MizuhoProfile2"
+            }
+        ],
+        "slug": "mizuho-asano"
     },
     {
         "id": "tatsuki_arisawa",
         "name": {
             "english": "Tatsuki Arisawa",
-            "kanji": "有沢 竜貴",
+            "kanji": "\u6709\u6ca2 \u7adc\u8cb4",
             "romaji": "Arisawa Tatsuki"
         },
-        "description": "Tatsuki Arisawa in \"Good Bye Halcyon Days\"I've seen you through so many hard times! I've helped you so many times! You don't...You don't hide things from someone like that. Tatsuki Arisawa (有沢 竜貴, Arisawa Tatsuki) is a student at Karakura High School, and is in the same class as Ichigo Kurosaki, her childhood friend and former karate partner. Tatsuki is a teenager of average height with black hair and brown eyes. She has a contrasting appearance to her best friend Orihime Inoue.",
+        "description": "Tatsuki Arisawa (\u6709\u6ca2 \u7adc\u8cb4, Arisawa Tatsuki) is a student at Karakura High School, and is in the same class as Ichigo Kurosaki, her childhood friend and former karate partner. Tatsuki is a teenager of average height with black hair and brown eyes.[4] She has a contrasting appearance to her best friend Orihime Inoue. Tatsuki is a tomboy, and has a very lean frame compared to Orihime's curvier figure.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/4/4b/686Tatsuki_profile.png/revision/latest?cb=20200322081733&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep343TatsukiProfile2.png/revision/latest?cb=20190314162420&path-prefix=en",
@@ -220,7 +227,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4f/Ep8YoungTatsuki.png/revision/latest?cb=20210319014058&path-prefix=en",
-                "alt": "A young Tatsuki Arisawa in her dōjō."
+                "alt": "A young Tatsuki Arisawa in her d\u014dj\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/16/Ep2TatsukiArisawa.png/revision/latest?cb=20210311232351&path-prefix=en",
@@ -279,16 +286,17 @@
                 "alt": "Tatsuki as a Shinigami in All Colour But The Black."
             }
         ],
-        "quotes": []
+        "quotes": [],
+        "slug": "tatsuki-arisawa"
     },
     {
-        "id": "oscar_joaquín_de_la_rosa",
+        "id": "oscar_joaqu\u00edn_de_la_rosa",
         "name": {
-            "english": "Oscar Joaquín de la Rosa",
-            "kanji": "オスカー・ホアキン・デ・ラ・ロサ",
-            "romaji": "Osukā Hoakin De ra Rosa"
+            "english": "Oscar Joaqu\u00edn de la Rosa",
+            "kanji": "\u30aa\u30b9\u30ab\u30fc\u30fb\u30db\u30a2\u30ad\u30f3\u30fb\u30c7\u30fb\u30e9\u30fb\u30ed\u30b5",
+            "romaji": "Osuk\u0101 Hoakin De ra Rosa"
         },
-        "description": "Oscar Joaquín De la Rosa (オスカー・ホアキン・デ・ラ・ロサ, Osukā Hoakin De ra Rosa) was Yasutora Sado's grandfather. After the death of Chad's parents, he raised him in his native Mexico until his death. De la Rosa is a muscular older man with gray hair. He wears purple cap with a yellow shirt and black suspenders. De la Rosa is a strong and sturdy old man, but with a gentle character.",
+        "description": "Oscar Joaqu\u00edn De la Rosa (\u30aa\u30b9\u30ab\u30fc\u30fb\u30db\u30a2\u30ad\u30f3\u30fb\u30c7\u30fb\u30e9\u30fb\u30ed\u30b5, Osuk\u0101 Hoakin De ra Rosa) was Yasutora Sado's grandfather. After the death of Chad's parents, he raised him in his native Mexico until his death. De la Rosa is a muscular older man with gray hair. He wears purple cap with a yellow shirt and black suspenders. De la Rosa is a strong and sturdy old man, but with a gentle character.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/9/98/Abuelo_%28ep249%29.png/revision/latest?cb=20131014030424&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -310,28 +318,33 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/9/98/Abuelo_%28ep249%29.png/revision/latest?cb=20131014030424&path-prefix=en",
+                "alt": "Abuelo (ep249)"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7c/Ep37OscarsCoin.png/revision/latest?cb=20210410015406&path-prefix=en",
                 "alt": "Chad's coin"
             }
-        ]
+        ],
+        "slug": "oscar-joaquin-de-la-rosa"
     },
     {
         "id": "jinta_hanakari",
         "name": {
             "english": "Jinta Hanakari",
-            "kanji": "花刈 ジン太",
+            "kanji": "\u82b1\u5208 \u30b8\u30f3\u592a",
             "romaji": "Hanakari Jinta"
         },
-        "description": "Jinta Hanakari (花刈 ジン太, Hanakari Jinta) is one of the employees of the Urahara Shop. Jinta is a small boy with red hair. He wears a white t-shirt with the Urahara Shop logo printed on the front and blue three-quarter length trousers, the bottoms of which are noticeably turned up. Seventeen months after Aizen's defeat, his hair is now slicked back and he wears a sleeveless blue shirt, edged with white and grey pants that are no longer turned up.",
+        "description": "Jinta Hanakari (\u82b1\u5208 \u30b8\u30f3\u592a, Hanakari Jinta) is one of the employees of the Urahara Shop. Jinta is a small boy with red hair. He wears a white t-shirt with the Urahara Shop logo printed on the front and blue three-quarter length trousers, the bottoms of which are noticeably turned up. Seventeen months after Aizen's defeat, his hair is now slicked back and he wears a sleeveless blue shirt, edged with white and grey pants that are no longer turned up.",
         "avatar": [
-            "https://static.wikia.nocookie.net/bleach/images/8/82/Ep344JintaProfile.png/revision/latest?cb=20230125215955&path-prefix=en",
+            "https://static.wikia.nocookie.net/bleach/images/8/82/Ep344JintaProfile.png/revision/latest?cb=20231105042632&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/e/e0/Ep33JintaHanakari.png/revision/latest?cb=20210408221424&path-prefix=en"
         ],
         "stats": {
             "race": "Human",
             "birthday": "April 4",
             "gender": "Male",
-            "height": "126 cm (4'1½\")",
+            "height": "126 cm (4'1\u00bd\")",
             "weight": "25 kg (55 lbs)",
             "Professional Status": {
                 "affiliation": "Urahara Shop",
@@ -348,7 +361,7 @@
                 "education": "N/A"
             },
             "Primary Skill": {
-                "signature skill": "Kanabō Specialist"
+                "signature skill": "Kanab\u014d Specialist"
             },
             "First Appearance": {
                 "manga": "Volume 2, Chapter 13",
@@ -369,7 +382,7 @@
         },
         "media": [
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/8/82/Ep344JintaProfile.png/revision/latest?cb=20230125215955&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/8/82/Ep344JintaProfile.png/revision/latest?cb=20231105042632&path-prefix=en",
                 "alt": "2003"
             },
             {
@@ -395,17 +408,22 @@
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7e/15Jinta%27s_gun.png/revision/latest?cb=20190530172612&path-prefix=en",
                 "alt": "Jinta wields a gun-like weapon."
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/c/cc/BBSJinta.png/revision/latest?cb=20230825071506&path-prefix=en",
+                "alt": "Promotional artwork of Jinta in Bleach: Brave Souls."
             }
-        ]
+        ],
+        "slug": "jinta-hanakari"
     },
     {
         "id": "hashigami",
         "name": {
             "english": "Hashigami",
-            "kanji": "橋上",
+            "kanji": "\u6a4b\u4e0a",
             "romaji": "Hashigami"
         },
-        "description": "Hashigami (橋上, Hashigami) is a young boy who goes to the same school as Yuzu Kurosaki and Karin Kurosaki. He has light and messy brown hair and freckles on his cheeks. He doesn't like Karin much because of her bad reputation. He likes to play video games with his friends Kaneda and Ino, rather than participating in gym class.",
+        "description": "Hashigami (\u6a4b\u4e0a, Hashigami) is a young boy who goes to the same school as Yuzu Kurosaki and Karin Kurosaki. He has light and messy brown hair and freckles on his cheeks. He doesn't like Karin much because of her bad reputation. He likes to play video games with his friends Kaneda and Ino, rather than participating in gym class.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/6/6b/Ep7Hashigami.png/revision/latest?cb=20210318232744&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -429,16 +447,22 @@
                 "english": "Darrel Guilbeau"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/6/6b/Ep7Hashigami.png/revision/latest?cb=20210318232744&path-prefix=en",
+                "alt": "Ep7Hashigami"
+            }
+        ],
+        "slug": "hashigami"
     },
     {
-        "id": "chizuru_honshō",
+        "id": "chizuru_honsh\u014d",
         "name": {
-            "english": "Chizuru Honshō",
-            "kanji": "本匠 千鶴",
-            "romaji": "Honshō Chizuru"
+            "english": "Chizuru Honsh\u014d",
+            "kanji": "\u672c\u5320 \u5343\u9db4",
+            "romaji": "Honsh\u014d Chizuru"
         },
-        "description": "Chizuru Honshō (本匠 千鶴, Honshō Chizuru) is a student at Karakura High School, in the same class as Ichigo Kurosaki. Her name is listed as the 31st student in academic achievements. Chizuru is a thin teenager with short red hair and purple eyes, her bangs parted on both sides of her face and wears red framed glasses. She usually wears her Karakura high school uniform. She is a proud lesbian, who seems happy almost all the time.",
+        "description": "Chizuru Honsh\u014d (\u672c\u5320 \u5343\u9db4, Honsh\u014d Chizuru) is a student at Karakura High School, in the same class as Ichigo Kurosaki. Her name is listed as the 31st student in academic achievements.[2] Chizuru is a thin teenager with short red hair and purple eyes, her bangs parted on both sides of her face and wears red framed glasses. She usually wears her Karakura high school uniform. She is a proud lesbian, who seems happy almost all the time.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a2/Ep214ChizuruProfile.png/revision/latest?cb=20190126061258&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -466,10 +490,14 @@
             "Voices": {
                 "japanese": "Saki Nakajima",
                 "english": "Jeannie Elias",
-                "spanish": "Rocío Prado"
+                "spanish": "Roc\u00edo Prado"
             }
         },
         "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/a2/Ep214ChizuruProfile.png/revision/latest?cb=20190126061258&path-prefix=en",
+                "alt": "Ep214ChizuruProfile"
+            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9e/Ep13NumbManipulatesChizuru.png/revision/latest?cb=20210325231942&path-prefix=en",
                 "alt": "Chizuru attacking Orihime, under the influence of Numb Chandelier's special abilities."
@@ -482,7 +510,8 @@
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/56/Ep307MizuiroChizuruHiding.png/revision/latest?cb=20220925190252&path-prefix=en",
                 "alt": "Chizuru and Mizuiro wait in an alley."
             }
-        ]
+        ],
+        "slug": "chizuru-honsho"
     },
     {
         "id": "harutoki_ide",
@@ -505,19 +534,25 @@
             "Voices": {
                 "japanese": "Wataru Hatano",
                 "english": "Steve Staley",
-                "spanish": "Figueira Júnior (Latin America)"
+                "spanish": "Figueira J\u00fanior (Latin America)"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/3/34/Ep4HarutokiIde.png/revision/latest?cb=20210312063257&path-prefix=en",
+                "alt": "Ep4HarutokiIde"
+            }
+        ],
+        "slug": "harutoki-ide"
     },
     {
         "id": "ino",
         "name": {
             "english": "Ino",
-            "kanji": "伊野",
+            "kanji": "\u4f0a\u91ce",
             "romaji": "Ino"
         },
-        "description": "Ino (伊野, Ino) is a young boy who goes to the same school as Yuzu Kurosaki and Karin Kurosaki. He has untidy brown hair which sticks up in random places. He wears thick black glasses and his P.E. kit. He dislikes Karin because of her nasty reputation. He likes to play video games with his friends Hashigami and Kaneda rather than going to gym class. While Ino, Hashigami, and Kaneda are playing video games, Ino complains about gym class. They continue playing their video game until Ino loses.",
+        "description": "Ino (\u4f0a\u91ce, Ino) is a young boy who goes to the same school as Yuzu Kurosaki and Karin Kurosaki. He has untidy brown hair which sticks up in random places. He wears thick black glasses and his P.E. kit. He dislikes Karin because of her nasty reputation. He likes to play video games with his friends Hashigami and Kaneda rather than going to gym class. While Ino, Hashigami, and Kaneda are playing video games, Ino complains about gym class. They continue playing their video game until Ino loses.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/8/88/Ep7Ino.png/revision/latest?cb=20210318225529&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -541,20 +576,26 @@
                 "english": "Tom Fahn"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/8/88/Ep7Ino.png/revision/latest?cb=20210318225529&path-prefix=en",
+                "alt": "Ep7Ino"
+            }
+        ],
+        "slug": "ino"
     },
     {
         "id": "orihime_inoue",
         "name": {
             "english": "Orihime Inoue",
-            "kanji": "井上 織姫",
+            "kanji": "\u4e95\u4e0a \u7e54\u59eb",
             "romaji": "Inoue Orihime"
         },
-        "description": "Orihime Inoue (井上 織姫, Inoue Orihime) is a Human living in Karakura Town. She is a former student of Karakura High School. She is married to Ichigo Kurosaki and has a son named Kazui Kurosaki. Orihime is a teenager of average height. She has brown eyes and long, waist-length, burnt orange hair. Her most noticeable physical trait is her slender yet curvaceous figure for a teenager, especially in terms of her large breasts.",
+        "description": "Orihime Inoue (\u4e95\u4e0a \u7e54\u59eb, Inoue Orihime) is a Human living in Karakura Town. She is a former student of Karakura High School. She is married to Ichigo Kurosaki and has a son named Kazui Kurosaki. Orihime is a teenager of average height. She has brown eyes[4] and long, waist-length, burnt orange hair. Her most noticeable physical trait is her slender yet curvaceous figure for a teenager, especially in terms of her large breasts.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/9/94/686Post-War_Orihime.png/revision/latest?cb=20190523143321&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/c/cb/Ep347OrihimeProfile.png/revision/latest?cb=20190314171133&path-prefix=en",
-            "https://static.wikia.nocookie.net/bleach/images/b/b2/Ep215OrihimeProfile.png/revision/latest?cb=20220501220021&path-prefix=en"
+            "https://static.wikia.nocookie.net/bleach/images/b/b2/Ep215OrihimeProfile.png/revision/latest?cb=20231105043021&path-prefix=en"
         ],
         "stats": {
             "race": "Human",
@@ -610,7 +651,7 @@
                 "alt": "2003"
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/b/b2/Ep215OrihimeProfile.png/revision/latest?cb=20220501220021&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/b/b2/Ep215OrihimeProfile.png/revision/latest?cb=20231105043021&path-prefix=en",
                 "alt": "2001"
             },
             {
@@ -651,7 +692,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/36/Ep43OrihimeShieldsUryuAramaki.png/revision/latest?cb=20200330141133&path-prefix=en",
-                "alt": "Orihime protects Uryū and Aramaki from Mayuri Kurotsuchi using Santen Kesshun."
+                "alt": "Orihime protects Ury\u016b and Aramaki from Mayuri Kurotsuchi using Santen Kesshun."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep63RyokaLeaveSoulSociety.png/revision/latest?cb=20210414041512&path-prefix=en",
@@ -699,7 +740,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/03/Ep150OrihimeWithHogyoku.png/revision/latest?cb=20230727141656&path-prefix=en",
-                "alt": "Orihime watches the Hōgyoku up close and decides to destroy it."
+                "alt": "Orihime watches the H\u014dgyoku up close and decides to destroy it."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/07/Ep159UlquiorraAdvisesOrihime.png/revision/latest?cb=20230609235043&path-prefix=en",
@@ -759,7 +800,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/16/OrihimeUryuUlquiorraReiatsu.png/revision/latest?cb=20220705031246&path-prefix=en",
-                "alt": "Uryū and Orihime are engulfed by Ulquiorra's increased Spiritual Power."
+                "alt": "Ury\u016b and Orihime are engulfed by Ulquiorra's increased Spiritual Power."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/88/UlquiorraStopsOrihime.png/revision/latest?cb=20220708051958&path-prefix=en",
@@ -767,7 +808,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/15/Ep272UryuOrihimeWatch.png/revision/latest?cb=20220713011445&path-prefix=en",
-                "alt": "Uryū and Orihime watch Ichigo's inner Hollow dominate Ulquiorra."
+                "alt": "Ury\u016b and Orihime watch Ichigo's inner Hollow dominate Ulquiorra."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/16/UlquiorraReachesOut.png/revision/latest?cb=20220713011932&path-prefix=en",
@@ -791,7 +832,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e0/Ep354OrihimeHealsUyru.png/revision/latest?cb=20230201051034&path-prefix=en",
-                "alt": "Orihime visits Uryū in the hospital to heal him."
+                "alt": "Orihime visits Ury\u016b in the hospital to heal him."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/77/Riruka_confronts_Orihime.png/revision/latest?cb=20230201051018&path-prefix=en",
@@ -799,7 +840,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/1a/Ep356ShitenK%C5%8Dshun.png/revision/latest?cb=20221008000710&path-prefix=en",
-                "alt": "Orihime uses Shiten Kōshun against Kūgo."
+                "alt": "Orihime uses Shiten K\u014dshun against K\u016bgo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/42/Orihime_looks_hungrily_at_donuts.png/revision/latest?cb=20221006193319&path-prefix=en",
@@ -819,11 +860,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/de/Ep367IchigoFriendsArrive.png/revision/latest?cb=20221010200257&path-prefix=en",
-                "alt": "Ichigo, Uryū, Sado, and Orihime confront the Hollows."
+                "alt": "Ichigo, Ury\u016b, Sado, and Orihime confront the Hollows."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/66/491Santen_Kesshun_is_absorbed.png/revision/latest?cb=20170827201846&path-prefix=en",
-                "alt": "Orihime's Santen Kesshun is absorbed by Quilge's Vollständig, Biskiel."
+                "alt": "Orihime's Santen Kesshun is absorbed by Quilge's Vollst\u00e4ndig, Piskiel."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/ac/Ep370OrihimeSadoInjured.png/revision/latest?cb=20221101072009&path-prefix=en",
@@ -851,7 +892,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/aa/615Soten_Kisshun_shatters.png/revision/latest?cb=20190502002459&path-prefix=en",
-                "alt": "Orihime's Sōten Kisshun shatters around the Soul King."
+                "alt": "Orihime's S\u014dten Kisshun shatters around the Soul King."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/74/624Orihime_catches.png/revision/latest?cb=20190505012530&path-prefix=en",
@@ -903,7 +944,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/cd/Ep13Shun%C5%8D.png/revision/latest?cb=20210325235412&path-prefix=en",
-                "alt": "Shun'ō."
+                "alt": "Shun'\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/42/Ep13Tsubaki.png/revision/latest?cb=20210325235610&path-prefix=en",
@@ -915,7 +956,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/5c/Ep143S%C5%8DtenKisshunArm.png/revision/latest?cb=20230528205344&path-prefix=en",
-                "alt": "Sōten Kisshun."
+                "alt": "S\u014dten Kisshun."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/df/Ep13NumbDefeated.png/revision/latest?cb=20210325234501&path-prefix=en",
@@ -923,7 +964,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/1a/Ep356ShitenK%C5%8Dshun.png/revision/latest?cb=20221008000710&path-prefix=en",
-                "alt": "Shiten Kōshun."
+                "alt": "Shiten K\u014dshun."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2c/Bleach_Beat_Collection_S2V5.png/revision/latest?cb=20180111011427&path-prefix=en",
@@ -980,12 +1021,12 @@
                 "reference": "Bleach manga; Chapter 228, pages 5-6"
             },
             {
-                "quote": "Kurosaki-kun, you know I had a lot of things I wanted to do... I want to be a teacher... I also want to be an astronaut... and also make my own cake shop... I want to go to the sweets bakery and say 'I want one of everything'... Ohhhh, I wish I could live life five times over. Then I’d be born in five different places, and I’d stuff myself with different food from around the world... I’d live five different lives with five different occupations... and then, for those five times... I’d fall in love with the same person...",
+                "quote": "Kurosaki-kun, you know I had a lot of things I wanted to do... I want to be a teacher... I also want to be an astronaut... and also make my own cake shop... I want to go to the sweets bakery and say 'I want one of everything'... Ohhhh, I wish I could live life five times over. Then I\u2019d be born in five different places, and I\u2019d stuff myself with different food from around the world... I\u2019d live five different lives with five different occupations... and then, for those five times... I\u2019d fall in love with the same person...",
                 "to": "Ichigo Kurosaki, who is asleep",
                 "reference": "Bleach manga; Chapter 237, pages 17-18"
             },
             {
-                "quote": "I don't believe that he showed me the Hōgyoku because he trusts me... but, at least I have learned the location of the Hōgyoku... and... about my own power, too. Everything that has occurred... it reverses it all, and destroys the very event itself. Thank you, Kurosaki-kun, for coming to save me, but I've found something I must do here. And it's definitely...something only I can do. With my power... I will return the Hōgyoku to before it ever existed!",
+                "quote": "I don't believe that he showed me the H\u014dgyoku because he trusts me... but, at least I have learned the location of the H\u014dgyoku... and... about my own power, too. Everything that has occurred... it reverses it all, and destroys the very event itself. Thank you, Kurosaki-kun, for coming to save me, but I've found something I must do here. And it's definitely...something only I can do. With my power... I will return the H\u014dgyoku to before it ever existed!",
                 "to": "Herself",
                 "reference": "Bleach manga; Chapter 249, pages 17-18"
             },
@@ -1009,12 +1050,13 @@
                 "to": "Yasutora Sado",
                 "reference": "Bleach manga; Chapter 546, page 9"
             }
-        ]
+        ],
+        "slug": "orihime-inoue"
     },
     {
         "id": "kagine",
         "name": "Kagine",
-        "description": "Kagine-sensei (鍵根) is a high school physical education teacher at Karakura High School. He's a tall, muscular man with short black hair and a mustache. Kagine is a very strict man, who is easily angered. However, he is also easily moved to tears as demonstrated with Rukia when she pretends to cry to deflect his anger from Ichigo and his friends.",
+        "description": "Kagine-sensei (\u9375\u6839) is a high school physical education teacher at Karakura High School. He's a tall, muscular man with short black hair and a mustache. Kagine is a very strict man, who is easily angered. However, he is also easily moved to tears as demonstrated with Rukia when she pretends to cry to deflect his anger from Ichigo and his friends.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/a/ad/Ep67KagineProfile.png/revision/latest?cb=20210415004403&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -1038,19 +1080,24 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/ad/Ep67KagineProfile.png/revision/latest?cb=20210415004403&path-prefix=en",
+                "alt": "Ep67KagineProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/18/Ep11RukiaCriesDramatically.png/revision/latest?cb=20210325001135&path-prefix=en",
                 "alt": "Kagine scolding the pupils."
             }
-        ]
+        ],
+        "slug": "kagine"
     },
     {
         "id": "kaneda",
         "name": {
             "english": "Kaneda",
-            "kanji": "金田",
+            "kanji": "\u91d1\u7530",
             "romaji": "Kaneda"
         },
-        "description": "Kaneda (金田, Kaneda) is a young boy who goes to the same school as Yuzu Kurosaki and Karin Kurosaki. He is obese and he has black hair. His eyebrows look like flags, and he also has a dounut shaped mouth. He dislikes Karin much because of her nasty reputation. He likes to play video games with his friends Hashigami and Ino rather than going in to gym class.",
+        "description": "Kaneda (\u91d1\u7530, Kaneda) is a young boy who goes to the same school as Yuzu Kurosaki and Karin Kurosaki. He is obese and he has black hair. His eyebrows look like flags, and he also has a dounut shaped mouth. He dislikes Karin much because of her nasty reputation. He likes to play video games with his friends Hashigami and Ino rather than going in to gym class.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/3/30/Ep7Kaneda.png/revision/latest?cb=20210318225556&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -1074,16 +1121,22 @@
                 "english": "Yuri Lowenthal"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/3/30/Ep7Kaneda.png/revision/latest?cb=20210318225556&path-prefix=en",
+                "alt": "Ep7Kaneda"
+            }
+        ],
+        "slug": "kaneda"
     },
     {
         "id": "don_kanonji",
         "name": {
             "english": "Don Kanonji",
-            "kanji": "ドン・観音寺, Don Kanonji), real name Misaomaru Kanonji (観音寺 ミサオ丸, Kanonji Misaomaru), is a popular spirit Mediumship who hosts a television show called Casual Soul Realm Assault Trip (ぶらり霊場突撃の旅, Burari Reijō Totsugeki no Tabi), often referred to simply as Cazh Soul (ぶら霊",
+            "kanji": "\u30c9\u30f3\u30fb\u89b3\u97f3\u5bfa, Don Kanonji), real name Misaomaru Kanonji (\u89b3\u97f3\u5bfa \u30df\u30b5\u30aa\u4e38, Kanonji Misaomaru), is a popular spirit Mediumship who hosts a television show called Casual Soul Realm Assault Trip (\u3076\u3089\u308a\u970a\u5834\u7a81\u6483\u306e\u65c5, Burari Reij\u014d Totsugeki no Tabi), often referred to simply as Cazh Soul (\u3076\u3089\u970a",
             "romaji": "Bura Tama"
         },
-        "description": "Don Kanonji (ドン・観音寺, Don Kanonji), real name Misaomaru Kanonji (観音寺 ミサオ丸, Kanonji Misaomaru), is a popular spirit Mediumship who hosts a television show called Casual Soul Realm Assault Trip (ぶらり霊場突撃の旅, Burari Reijō Totsugeki no Tabi), often referred to simply as Cazh Soul (ぶら霊, Bura Tama). Tall and thin, Kanonji has deep-set eyes and a mustache, but is not handsome at all. He wears glasses and a variety of flashy outfits and hats. He sometimes wears a cape as well.",
+        "description": "Don Kanonji (\u30c9\u30f3\u30fb\u89b3\u97f3\u5bfa, Don Kanonji), real name Misaomaru Kanonji (\u89b3\u97f3\u5bfa \u30df\u30b5\u30aa\u4e38, Kanonji Misaomaru), is a popular spirit Mediumship who hosts a television show called Casual Soul Realm Assault Trip (\u3076\u3089\u308a\u970a\u5834\u7a81\u6483\u306e\u65c5, Burari Reij\u014d Totsugeki no Tabi), often referred to simply as Cazh Soul (\u3076\u3089\u970a, Bura Tama).[2][3] Tall and thin, Kanonji has deep-set eyes and a mustache, but is not handsome at all.[2] He wears glasses and a variety of flashy outfits and hats. He sometimes wears a cape as well.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/4/41/Ep50DonKanonjiProfile.png/revision/latest?cb=20210411054438&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -1121,6 +1174,10 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/4/41/Ep50DonKanonjiProfile.png/revision/latest?cb=20210411054438&path-prefix=en",
+                "alt": "Ep50DonKanonjiProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f3/Ep10DonKanonjiPoses.png/revision/latest?cb=20210320235521&path-prefix=en",
                 "alt": "Kanonji arrives for filming and makes his trademark pose."
             },
@@ -1150,7 +1207,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2d/BBSSAFWYDon_Kanonji_and_Picaro.png/revision/latest?cb=20210601022802&path-prefix=en",
-                "alt": "Promotional artwork of Don Kanonji fighting alongside Pícaro in Bleach: Brave Souls."
+                "alt": "Promotional artwork of Don Kanonji fighting alongside P\u00edcaro in Bleach: Brave Souls."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ee/BBSDon_Kanonji.png/revision/latest?cb=20211009222651&path-prefix=en",
@@ -1178,26 +1235,27 @@
                 "to": "Tatsuki Arisawa",
                 "reference": "Bleach manga; Chapter 411, pages 17-18"
             }
-        ]
+        ],
+        "slug": "don-kanonji"
     },
     {
         "id": "mizuiro_kojima",
         "name": {
             "english": "Mizuiro Kojima",
-            "kanji": "小島 水色",
+            "kanji": "\u5c0f\u5cf6 \u6c34\u8272",
             "romaji": "Kojima Mizuiro"
         },
-        "description": "Mizuiro Kojima (小島 水色, Kojima Mizuiro) is a student in Karakura High School and is in the same class as Ichigo Kurosaki. Mizuiro has short black hair and green eyes, parted down the middle with a stray bang in his face and the tips fanning out. He looks very young and wears the Karakura high school uniform with the jacket zipped up. 17 months later, his hair is now straight and has grown out to cover his ears.",
+        "description": "Mizuiro Kojima (\u5c0f\u5cf6 \u6c34\u8272, Kojima Mizuiro) is a student in Karakura High School and is in the same class as Ichigo Kurosaki. Mizuiro has short black hair and green eyes, parted down the middle with a stray bang in his face and the tips fanning out. He looks very young and wears the Karakura high school uniform with the jacket zipped up. 17 months later, his hair is now straight and has grown out to cover his ears.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/2/2b/Ep343MizuiroProfile2.png/revision/latest?cb=20190314172143&path-prefix=en",
-            "https://static.wikia.nocookie.net/bleach/images/5/56/Ep227MizuiroProfile.png/revision/latest?cb=20230125213015&path-prefix=en"
+            "https://static.wikia.nocookie.net/bleach/images/5/56/Ep227MizuiroProfile.png/revision/latest?cb=20231105043314&path-prefix=en"
         ],
         "stats": {
             "race": "Human",
             "birthday": "May 23rd",
             "age": "15[2] (Pre-Timeskip) 17 (Post-Timeskip) 27 (Epilogue)",
             "gender": "Male",
-            "height": "154 cm (5'0½\")",
+            "height": "154 cm (5'0\u00bd\")",
             "weight": "45 kg (99 lbs.)",
             "blood type": "BB",
             "Professional Status": {
@@ -1222,7 +1280,7 @@
                     "Tom Fahn",
                     "Jamie Simone"
                 ],
-                "spanish": "Alex de Porrata (Spain)Javier Olguín (Latin America)"
+                "spanish": "Alex de Porrata (Spain)Javier Olgu\u00edn (Latin America)"
             }
         },
         "media": [
@@ -1231,7 +1289,7 @@
                 "alt": "2003"
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/5/56/Ep227MizuiroProfile.png/revision/latest?cb=20230125213015&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/5/56/Ep227MizuiroProfile.png/revision/latest?cb=20231105043314&path-prefix=en",
                 "alt": "2001"
             },
             {
@@ -1295,19 +1353,20 @@
                 "alt": "Mizuiro receiving a Soul Ticket from Shunsui."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/7/75/NBFHIchigo_chats.png/revision/latest?cb=20210809170427&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/75/NBFHIchigo_chats.png/revision/latest?cb=20230903201709&path-prefix=en",
                 "alt": "Mizuiro chastises Keigo for holding inside conversations."
             }
-        ]
+        ],
+        "slug": "mizuiro-kojima"
     },
     {
-        "id": "ryō_kunieda",
+        "id": "ry\u014d_kunieda",
         "name": {
-            "english": "Ryō Kunieda",
-            "kanji": "国枝 鈴",
-            "romaji": "Kunieda Ryō"
+            "english": "Ry\u014d Kunieda",
+            "kanji": "\u56fd\u679d \u9234",
+            "romaji": "Kunieda Ry\u014d"
         },
-        "description": "This article is about the high school student Ryō. For the Bount, see Ryō Utagawa. Ryō Kunieda (国枝 鈴, Kunieda Ryō) is a classmate of Ichigo Kurosaki at Karakura High School. Ryō has long black hair and a mole under her left eye. She wears the standard Karakura school uniform. Ryō loves to read and is very bright, usually being found with a book. She ranks second in her grade on the school exams at Karakura High School and is never in trouble.",
+        "description": "This article is about the high school student Ry\u014d. For the Bount, see Ry\u014d Utagawa. Ry\u014d Kunieda (\u56fd\u679d \u9234, Kunieda Ry\u014d) is a classmate of Ichigo Kurosaki at Karakura High School. Ry\u014d has long black hair and a mole under her left eye. She wears the standard Karakura school uniform. Ry\u014d loves to read and is very bright, usually being found with a book. She ranks second in her grade on the school exams at Karakura High School and is never in trouble.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep6RyoProfile.png/revision/latest?cb=20210313010038&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -1338,36 +1397,41 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep6RyoProfile.png/revision/latest?cb=20210313010038&path-prefix=en",
+                "alt": "Ep6RyoProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/94/Ep3MahanaMichiruRy%C5%8D.png/revision/latest?cb=20210312041511&path-prefix=en",
-                "alt": "Ryō listens to Orihime's strange story."
+                "alt": "Ry\u014d listens to Orihime's strange story."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/35/Ep15KonEnticesGirls.png/revision/latest?cb=20210327023229&path-prefix=en",
-                "alt": "Ryō encounters Kon."
+                "alt": "Ry\u014d encounters Kon."
             }
-        ]
+        ],
+        "slug": "ryo-kunieda"
     },
     {
         "id": "ichigo_kurosaki",
         "name": {
             "english": "Ichigo Kurosaki",
-            "kanji": "黒崎 一護",
+            "kanji": "\u9ed2\u5d0e \u4e00\u8b77",
             "romaji": "Kurosaki Ichigo"
         },
-        "description": "Ichigo Kurosaki (黒崎 一護, Kurosaki Ichigo) is a Human who is also a Substitute Shinigami. Ichigo is the son of Isshin and Masaki Kurosaki, and older brother of Karin and Yuzu. He is also married to Orihime Inoue and has a son named Kazui Kurosaki. Ichigo's most distinguishing feature is his spiky orange hair, a trait he has been ridiculed about for years on end. He is a fairly tall, lean-built young man with peach skin and brown eyes. He likes to wear slim fitting clothes.",
+        "description": "Ichigo Kurosaki (\u9ed2\u5d0e \u4e00\u8b77, Kurosaki Ichigo) is a Human who is also a Substitute Shinigami. Ichigo is the son of Isshin and Masaki Kurosaki, and older brother of Karin and Yuzu. He is also married to Orihime Inoue and has a son named Kazui Kurosaki. Ichigo's most distinguishing feature is his spiky orange hair, a trait he has been ridiculed about for years on end. He is a fairly tall, lean-built young man with peach skin and brown eyes. He likes to wear slim fitting clothes.",
         "avatar": [
-            "https://static.wikia.nocookie.net/bleach/images/4/41/NBFHIchigo_profile.png/revision/latest?cb=20210809170351&path-prefix=en",
+            "https://static.wikia.nocookie.net/bleach/images/4/41/NBFHIchigo_profile.png/revision/latest?cb=20230903192540&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/e/e4/686Post-War_Ichigo.png/revision/latest?cb=20190523143205&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/5/52/591Ichigo_profile.png/revision/latest?cb=20190129174528&path-prefix=en",
-            "https://static.wikia.nocookie.net/bleach/images/1/16/Ep266IchigoKurosaki.png/revision/latest?cb=20220504000402&path-prefix=en"
+            "https://static.wikia.nocookie.net/bleach/images/1/16/Ep266IchigoKurosaki.png/revision/latest?cb=20231105043618&path-prefix=en"
         ],
         "stats": {
             "race": "Human (Quincy)",
-            "birthday": "July 15",
-            "age": "15 (2001)17 (2003) 27 (2013) 29 (2015)",
+            "birthday": "July 15, 1985[1]",
+            "age": "15 (Chapters 1-33; 2001)[3]16 (Chapters 34-423; 2001) 17 (2003) 27 (2013) 29 (2015)",
             "gender": "Male",
-            "height": "174 cm (5'8½\")[2] (formerly) 181 cm (5'11¼\")",
-            "weight": "61 kg (134 lbs.)[2] (formerly) 66 kg (145 lbs.)",
+            "height": "174 cm (5'8\u00be\")[4] (formerly) 181 cm (5'11\u00bd\")",
+            "weight": "61 kg (134 lbs.)[4] (formerly) 66 kg (145 lbs.)",
             "blood type": "A",
             "Professional Status": {
                 "affiliation": [
@@ -1393,11 +1457,12 @@
                     "Masaki Kurosaki",
                     "Karin Kurosaki",
                     "Yuzu Kurosaki",
-                    "Uryū Ishida"
+                    "K\u016bkaku Shiba",
+                    "Ganju Shiba"
                 ],
                 "education": "Karakura High School"
             },
-            "Zanpakutō": {
+            "Zanpakut\u014d": {
                 "shikai": "Zangetsu",
                 "bankai": "Tensa Zangetsu"
             },
@@ -1420,7 +1485,7 @@
         },
         "media": [
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/4/41/NBFHIchigo_profile.png/revision/latest?cb=20210809170351&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/4/41/NBFHIchigo_profile.png/revision/latest?cb=20230903192540&path-prefix=en",
                 "alt": "2015"
             },
             {
@@ -1432,7 +1497,7 @@
                 "alt": "2003"
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/1/16/Ep266IchigoKurosaki.png/revision/latest?cb=20220504000402&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/1/16/Ep266IchigoKurosaki.png/revision/latest?cb=20231105043618&path-prefix=en",
                 "alt": "2001"
             },
             {
@@ -1461,7 +1526,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d3/Ep3SoraPurifiesHiimself.png/revision/latest?cb=20221123070920&path-prefix=en",
-                "alt": "Sora uses Ichigo's Zanpakutō to purify himself."
+                "alt": "Sora uses Ichigo's Zanpakut\u014d to purify himself."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep4KarinCollapses.png/revision/latest?cb=20210312064200&path-prefix=en",
@@ -1505,19 +1570,19 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/17/Ep11Reiraku3.png/revision/latest?cb=20210325002916&path-prefix=en",
-                "alt": "Uryū grabs Ichigo's red spirit thread."
+                "alt": "Ury\u016b grabs Ichigo's red spirit thread."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ep14IchigoArrivesAtCarnage.png/revision/latest?cb=20210326032713&path-prefix=en",
-                "alt": "Ichigo confronts Uryū."
+                "alt": "Ichigo confronts Ury\u016b."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/37/Ep14IchigoAttacksMenos.png/revision/latest?cb=20210326034747&path-prefix=en",
                 "alt": "Ichigo attacks the Menos Grande."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/5/59/Ep14IchigoEnlargesBow.png/revision/latest?cb=20210326035247&path-prefix=en",
-                "alt": "Uryū's plan is put into motion."
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/a7/Ep14SoulDocking.png/revision/latest?cb=20210326035247&path-prefix=en",
+                "alt": "Ury\u016b's plan is put into motion."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/05/Ep16IchigoFindsKon.png/revision/latest?cb=20210327073738&path-prefix=en",
@@ -1565,11 +1630,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7c/Ep21K%C5%8Dtotsu.png/revision/latest?cb=20210330094921&path-prefix=en",
-                "alt": "The Kōtotsu chases Ichigo's group through the Dangai."
+                "alt": "The K\u014dtotsu chases Ichigo's group through the Dangai."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/83/Ep21IchigoElbowsJidanb%C5%8D.png/revision/latest?cb=20210330101421&path-prefix=en",
-                "alt": "Ichigo uses his new strength against Jidanbō Ikkanzaka."
+                "alt": "Ichigo uses his new strength against Jidanb\u014d Ikkanzaka."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a5/Ep31IchigoAttacksRenji.png/revision/latest?cb=20210408004059&path-prefix=en",
@@ -1577,7 +1642,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8c/Ep54IchigoSavesRukia.png/revision/latest?cb=20210412040633&path-prefix=en",
-                "alt": "Ichigo frees Rukia from the Sōkyoku execution stand."
+                "alt": "Ichigo frees Rukia from the S\u014dkyoku execution stand."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f0/162Ichigo_holds.png/revision/latest?cb=20200501062211&path-prefix=en",
@@ -1585,7 +1650,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/49/Ep61AizenSlashesIchigo.png/revision/latest?cb=20230217001415&path-prefix=en",
-                "alt": "Sōsuke Aizen effortlessly defeats Ichigo."
+                "alt": "S\u014dsuke Aizen effortlessly defeats Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep114IchigoBlocksYammy.png/revision/latest?cb=20230427084757&path-prefix=en",
@@ -1697,7 +1762,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/b6/Obuta_beat_down.png/revision/latest?cb=20230125215850&path-prefix=en",
-                "alt": "Ichigo and Uryū punch Obuta together."
+                "alt": "Ichigo and Ury\u016b punch Obuta together."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/89/Ep344IchigoIsshinPicture.png/revision/latest?cb=20230125213920&path-prefix=en",
@@ -1705,15 +1770,15 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a0/Ep344XcutionCard.png/revision/latest?cb=20221225065523&path-prefix=en",
-                "alt": "The card given to Ichigo by Kūgo Ginjō."
+                "alt": "The card given to Ichigo by K\u016bgo Ginj\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/60/Ichigo_visits_Ishida.png/revision/latest?cb=20221225063426&path-prefix=en",
-                "alt": "Ichigo and Orihime visit Uryū in the hospital."
+                "alt": "Ichigo and Orihime visit Ury\u016b in the hospital."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c1/Ep346GinjoDemonstratesFullbring.png/revision/latest?cb=20230317223325&path-prefix=en",
-                "alt": "Kūgo explains Fullbring to Ichigo."
+                "alt": "K\u016bgo explains Fullbring to Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e2/Ep346IchigoSadoMeetInXcution.png/revision/latest?cb=20230317223106&path-prefix=en",
@@ -1725,7 +1790,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/cd/Ep349_Ichigo_attacks_Mr.Pork.png/revision/latest?cb=20230220063402&path-prefix=en",
-                "alt": "Ichigo unleashes a Getsuga Tenshō-like attack to defeat Mr. Pork."
+                "alt": "Ichigo unleashes a Getsuga Tensh\u014d-like attack to defeat Mr. Pork."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3b/Ichigo_and_Sado_rush_to_Orihime.png/revision/latest?cb=20230227064100&path-prefix=en",
@@ -1765,7 +1830,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/26/Kugo_stabbed_by_Tsukishima.png/revision/latest?cb=20221006184306&path-prefix=en",
-                "alt": "Kūgo protects Ichigo from Tsukishima's attack."
+                "alt": "K\u016bgo protects Ichigo from Tsukishima's attack."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7d/Ep361RukiaStabsIchigo.png/revision/latest?cb=20220920234420&path-prefix=en",
@@ -1773,15 +1838,15 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ec/Ep362NewGetsugaTensho.png/revision/latest?cb=20221001205415&path-prefix=en",
-                "alt": "Ichigo fires Getsuga Tenshō at Kūgo."
+                "alt": "Ichigo fires Getsuga Tensh\u014d at K\u016bgo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep365IchigoFacesGetsugaTensho.png/revision/latest?cb=20221211021620&path-prefix=en",
-                "alt": "Ichigo falling victim to Kūgo's Getsuga Tenshō."
+                "alt": "Ichigo falling victim to K\u016bgo's Getsuga Tensh\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ichgiocutskugo.png/revision/latest?cb=20220906045007&path-prefix=en",
-                "alt": "Ichigo grievously wounds Ginjō as the two battle in Bankai."
+                "alt": "Ichigo grievously wounds Ginj\u014d as the two battle in Bankai."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/87/Captainsmeetichigo.png/revision/latest?cb=20220906041817&path-prefix=en",
@@ -1812,15 +1877,15 @@
                 "alt": "Ichigo's new outfit for returning to Seireitei."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/c/c6/582Candice_attacks.png/revision/latest?cb=20170905005706&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/79/Ep387CandiceAttacksIchigo.png/revision/latest?cb=20230826225821&path-prefix=en",
                 "alt": "Candice attacks Ichigo."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/1/14/583Ichigo_vs._Candice.png/revision/latest?cb=20170905010052&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/a4/Ep387IchigoVsCandice.png/revision/latest?cb=20230826230117&path-prefix=en",
                 "alt": "Ichigo clashes with Candice."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/c/ce/585Meninas_attacks.png/revision/latest?cb=20170905010608&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/d/dc/Ep387MeninasAttacksIchigo.png/revision/latest?cb=20230906223753&path-prefix=en",
                 "alt": "Meninas attacks Ichigo by driving him through a building."
             },
             {
@@ -1861,7 +1926,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/04/659Ichigo_and_Uryu_meet.png/revision/latest?cb=20190518055035&path-prefix=en",
-                "alt": "Ichigo encounters Uryū."
+                "alt": "Ichigo encounters Ury\u016b."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/93/661Statues_appear.png/revision/latest?cb=20190518055529&path-prefix=en",
@@ -1897,22 +1962,22 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/77/683Ichigo_attacks.png/revision/latest?cb=20190523142319&path-prefix=en",
-                "alt": "Ichigo unleashing a powerful Getsuga Tenshō against Yhwach."
+                "alt": "Ichigo unleashing a powerful Getsuga Tensh\u014d against Yhwach."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/69/684Ichigo_bifurcates.png/revision/latest?cb=20190523142608&path-prefix=en",
                 "alt": "Ichigo cuts Yhwach in half."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/7/75/NBFHIchigo_chats.png/revision/latest?cb=20210809170427&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/75/NBFHIchigo_chats.png/revision/latest?cb=20230903201709&path-prefix=en",
                 "alt": "Ichigo chats with Renji over a video call."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/1/14/NBFHIchigo_and_lieutenants_gather.png/revision/latest?cb=20210809180759&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/1/14/NBFHIchigo_and_lieutenants_gather.png/revision/latest?cb=20230903204233&path-prefix=en",
                 "alt": "Ichigo joins the other lieutenants and meets the new ones."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/d/df/NBFHIchigo_vs._Szayelaporro.png/revision/latest?cb=20210809202411&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/d/df/NBFHIchigo_vs._Szayelaporro.png/revision/latest?cb=20230904021453&path-prefix=en",
                 "alt": "Ichigo faces off against a resurrected Szayelaporro Granz."
             },
             {
@@ -1929,7 +1994,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/93/673Ichigo_attacks.png/revision/latest?cb=20190522183508&path-prefix=en",
-                "alt": "Ichigo launches a Getsuga Tenshō at Yhwach."
+                "alt": "Ichigo launches a Getsuga Tensh\u014d at Yhwach."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d3/678Ichigo%27s_Bankai%2C_Tensa_Zangetsu.png/revision/latest?cb=20190523140753&path-prefix=en",
@@ -1937,7 +2002,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/77/683Ichigo_attacks.png/revision/latest?cb=20190523142319&path-prefix=en",
-                "alt": "A Getsuga Tenshō generated by Tensa Zangetsu."
+                "alt": "A Getsuga Tensh\u014d generated by Tensa Zangetsu."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8d/675Ichigo_transforms.png/revision/latest?cb=20190523140239&path-prefix=en",
@@ -1945,7 +2010,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3a/677Fused_Getsuga_Tensho-Gran_Rey_Cero.png/revision/latest?cb=20190523140439&path-prefix=en",
-                "alt": "Ichigo combines a Getsuga Tenshō with a Gran Rey Cero."
+                "alt": "Ichigo combines a Getsuga Tensh\u014d with a Gran Rey Cero."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/89/Ep373IchigoBlutVene.png/revision/latest?cb=20221121205326&path-prefix=en",
@@ -1973,7 +2038,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/70/Ep139GetsugaTensh%C5%8D.png/revision/latest?cb=20230228181602&path-prefix=en",
-                "alt": "Enhanced Getsuga Tenshō (Kuroi Getsuga)."
+                "alt": "Enhanced Getsuga Tensh\u014d (Kuroi Getsuga)."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/85/Ep373IchigoReiatsuEnraged.png/revision/latest?cb=20221122175049&path-prefix=en",
@@ -1981,7 +2046,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/ad/Ep309SaigoNoGetsugaTensh%C5%8D2.png/revision/latest?cb=20221009000042&path-prefix=en",
-                "alt": "Ichigo assuming the form of the Final Getsuga Tenshō."
+                "alt": "Ichigo assuming the form of the Final Getsuga Tensh\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/0d/Ep351_Fullbring_Focus.png/revision/latest?cb=20221001191140&path-prefix=en",
@@ -1997,7 +2062,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/33/Ep360_Ichigo_fires_Fullbring_Getsuga_Tensho.png/revision/latest?cb=20221006184451&path-prefix=en",
-                "alt": "Ichigo's Fullbring version of Getsuga Tenshō."
+                "alt": "Ichigo's Fullbring version of Getsuga Tensh\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/04/Ep165IchigoHollowMask.png/revision/latest?cb=20230406034559&path-prefix=en",
@@ -2012,16 +2077,17 @@
                 "alt": "Ichigo donning his mask."
             }
         ],
-        "quotes": []
+        "quotes": [],
+        "slug": "ichigo-kurosaki"
     },
     {
         "id": "karin_kurosaki",
         "name": {
             "english": "Karin Kurosaki",
-            "kanji": "黒崎 夏梨",
+            "kanji": "\u9ed2\u5d0e \u590f\u68a8",
             "romaji": "Kurosaki Karin"
         },
-        "description": "Karin Kurosaki in \"THE LOST AGENT\"From now on, it's my turn to protect my brother. Karin Kurosaki (黒崎 夏梨, Kurosaki Karin) is the fraternal younger twin sister of Yuzu, daughter of Isshin and Masaki Kurosaki, and youngest sister of Ichigo. Karin has dark grey eyes and black hair that is straight and cropped to hang around her face, just above her shoulders. Her eyes are large and dark.",
+        "description": "Karin Kurosaki (\u9ed2\u5d0e \u590f\u68a8, Kurosaki Karin) is the fraternal younger twin sister of Yuzu, daughter of Isshin and Masaki Kurosaki, and youngest sister of Ichigo. Karin has dark grey eyes and black hair that is straight and cropped to hang around her face, just above her shoulders. Her eyes are large and dark. When not wearing her school uniform, Karin typically wears sportswear consisting of knee-length leggings or shorts with alternative shirts, trainers.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/f/f0/686Post-War_Karin.png/revision/latest?cb=20200322082251&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/5/5f/Ep347KarinProfile.png/revision/latest?cb=20190314173711&path-prefix=en",
@@ -2029,10 +2095,10 @@
         ],
         "stats": {
             "race": "Human",
-            "birthday": "May 6",
+            "birthday": "May 6, 1990",
             "age": "11[2] (2001) 13 (2003) 23 (2013)",
             "gender": "Female",
-            "height": "136 cm (4'5½\")",
+            "height": "136 cm (4'5\u00bd\")",
             "weight": "31 kg (68 lbs.)",
             "blood type": "AO",
             "Professional Status": {
@@ -2092,39 +2158,19 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4b/Ep4KarinPain.png/revision/latest?cb=20210312064251&path-prefix=en",
-                "alt": "Karin unusually upset and in pain over Yūichi Shibata."
+                "alt": "Karin unusually upset and in pain over Y\u016bichi Shibata."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3a/Ep8KarinHeldDown.png/revision/latest?cb=20210319015631&path-prefix=en",
                 "alt": "Karin suppressed by an invisible Grand Fisher."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/c/cb/Ep64KarinQuestionsIchigo.png/revision/latest?cb=20200805114908&path-prefix=en",
-                "alt": "Karin notices Ichigo's distraction and improved physique."
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/15/Ep113KarinStopsIchigo.png/revision/latest?cb=20230530042032&path-prefix=en",
                 "alt": "Karin informed Ichigo that she knows he is a Shinigami."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e4/Ep132KarinMistakesHitsugaya.png/revision/latest?cb=20211024073226&path-prefix=en",
-                "alt": "Karin enrages Hitsugaya by calling him a school student."
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/b6/Ep141YuzuOffersDinner.png/revision/latest?cb=20230619171019&path-prefix=en",
                 "alt": "The twins want to eat with their brother."
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/6/63/Ep258KarinMeetsZabimaru.png/revision/latest?cb=20131123044014&path-prefix=en",
-                "alt": "Karin meets Zabimaru."
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/0/06/Ep258ZabimaruCarriesKarin.png/revision/latest?cb=20110504214340&path-prefix=en",
-                "alt": "Zabimaru carries Karin."
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/b/b1/E330_Karin_and_Nozomi.png/revision/latest?cb=20110712162609&path-prefix=en",
-                "alt": "Karin welcomes Nozomi to the household."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/11/Ep344UraharaSellsStuff.png/revision/latest?cb=20230125213942&path-prefix=en",
@@ -2145,19 +2191,21 @@
                 "to": "Yuzu Kurosaki about ghosts",
                 "reference": "Bleach manga; Chapter 1, page 11"
             }
-        ]
+        ],
+        "slug": "karin-kurosaki"
     },
     {
         "id": "kazui_kurosaki",
         "name": {
             "english": "Kazui Kurosaki",
-            "kanji": "黒崎一勇",
+            "kanji": "\u9ed2\u5d0e\u4e00\u52c7",
             "romaji": "Kurosaki Kazui"
         },
-        "description": "Kazui Kurosaki (黒崎一勇, Kurosaki Kazui) is a human with Shinigami powers. He is the son of Ichigo Kurosaki and Orihime Inoue. Kazui is a small boy with orange hair and large dark orange eyes. His face closely resembles that of his mother's, having the same shaped eyes and facial curves, while he inherited his father's spiky hair, though his hair is noticeably smoother than Ichigo's. He wears a light blue hoodie.",
+        "description": "Kazui Kurosaki (\u9ed2\u5d0e\u4e00\u52c7, Kurosaki Kazui) is a human with Shinigami powers. He is the son of Ichigo Kurosaki and Orihime Inoue.[2] Kazui is a small boy with orange hair and large dark orange eyes. His face closely resembles that of his mother's, having the same shaped eyes and facial curves, while he inherited his father's spiky hair, though his hair is noticeably smoother than Ichigo's. He wears a light blue hoodie and white pants.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/1/10/686Kazui_profile.png/revision/latest?cb=20190523143534&path-prefix=en",
         "stats": {
             "race": "Human",
+            "birthday": "April 29",
             "gender": "Male",
             "Professional Status": {
                 "affiliation": "Kurosaki Clinic",
@@ -2172,7 +2220,7 @@
                     "Isshin Kurosaki"
                 ]
             },
-            "Zanpakutō": {
+            "Zanpakut\u014d": {
                 "shikai": "Unknown",
                 "bankai": "Not Yet Achieved"
             },
@@ -2182,31 +2230,36 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/1/10/686Kazui_profile.png/revision/latest?cb=20190523143534&path-prefix=en",
+                "alt": "686Kazui profile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7e/686Cover.png/revision/latest?cb=20190523143136&path-prefix=en",
                 "alt": "Kazui meets Ichika Abarai."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e4/NBFHTakakomo_Shrine.png/revision/latest?cb=20210809163438&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/e4/NBFHTakakomo_Shrine.png/revision/latest?cb=20230903200408&path-prefix=en",
                 "alt": "Kazui takes a Soul to Takakomo Shrine so he can pass on."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/7/7d/NBFHKazui_manifests.png/revision/latest?cb=20210809162221&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/7d/NBFHKazui_manifests.png/revision/latest?cb=20230903195704&path-prefix=en",
                 "alt": "Kazui manifests a large fish to ride on."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/7/71/NBFHKazui_opens.png/revision/latest?cb=20210809163923&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/71/NBFHKazui_opens.png/revision/latest?cb=20230903200818&path-prefix=en",
                 "alt": "Kazui opens a portal lined with teeth."
             }
-        ]
+        ],
+        "slug": "kazui-kurosaki"
     },
     {
         "id": "yuzu_kurosaki",
         "name": {
             "english": "Yuzu Kurosaki",
-            "kanji": "黒崎 遊子",
+            "kanji": "\u9ed2\u5d0e \u904a\u5b50",
             "romaji": "Kurosaki Yuzu"
         },
-        "description": "Yuzu Kurosaki (黒崎 遊子, Kurosaki Yuzu) is the fraternal older twin of Karin and the younger sister of Ichigo Kurosaki. Yuzu's appearance is a stark contrast to her sister's. Yuzu has short light blonde hair, with short bangs hanging over the right side of her forehead. She also wears a red hair clip on the left side of her head. Her eyes are dark brown and appear much softer than Karin's. Yuzu dresses more girlishly when compared to her sister.",
+        "description": "Yuzu Kurosaki (\u9ed2\u5d0e \u904a\u5b50, Kurosaki Yuzu) is the fraternal older twin of Karin and the younger sister of Ichigo Kurosaki. Yuzu's appearance is a stark contrast to her sister's. Yuzu has short light blonde hair,[5] with short bangs hanging over the right side of her forehead. She also wears a red hair clip on the left side of her head. Her eyes are dark brown and appear much softer than Karin's. Yuzu dresses more girlishly when compared to her sister.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/8/88/686Post-War_Yuzu.png/revision/latest?cb=20200322082310&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/2/2b/Ep345YuzuProfile.png/revision/latest?cb=20190314174553&path-prefix=en",
@@ -2214,7 +2267,7 @@
         ],
         "stats": {
             "race": "Human",
-            "birthday": "May 6",
+            "birthday": "May 6, 1990",
             "age": "11[2] (2001) 13 (2003) 23 (2013)",
             "gender": "Female",
             "height": "137 cm (4'6\")",
@@ -2250,7 +2303,7 @@
                     "Janice Kawaye",
                     "Colleen O'Shaughnessey"
                 ],
-                "spanish": "Carmen Ambrós (Spain)Georgina Sánchez (Latin)"
+                "spanish": "Carmen Ambr\u00f3s (Spain)Georgina S\u00e1nchez (Latin)"
             }
         },
         "media": [
@@ -2338,21 +2391,22 @@
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/04/THVYuzuHellChain.png/revision/latest?cb=20190921032153&path-prefix=en",
                 "alt": "Yuzu in The Hell Verse."
             }
-        ]
+        ],
+        "slug": "yuzu-kurosaki"
     },
     {
         "id": "karakura_high_school_students",
         "name": {
             "english": "Karakura High School Students",
-            "kanji": "麻生 瞬哉",
-            "romaji": "Asō Shunya"
+            "kanji": "\u9ebb\u751f \u77ac\u54c9",
+            "romaji": "As\u014d Shunya"
         },
-        "description": "These are various students attending Karakura High School. Shunya Asō (麻生 瞬哉, Asō Shunya) is a student at Karakura High School and a classmate of Ichigo Kurosaki. Shunya is a lean young man with light-colored hair and a narrow face.",
+        "description": "These are various students attending Karakura High School. Shunya As\u014d (\u9ebb\u751f \u77ac\u54c9, As\u014d Shunya) is a student at Karakura High School and a classmate of Ichigo Kurosaki.[1] Shunya is a lean young man with light-colored hair and a narrow face.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/9/95/BTWVShunya_profile.png/revision/latest?cb=20200623050715&path-prefix=en",
         "stats": {
             "race": "Human",
             "gender": "Male",
-            "height": "169 cm (5'6½\")",
+            "height": "169 cm (5'6\u00bd\")",
             "weight": "58 kg (127 lbs)",
             "blood type": "BO",
             "Professional Status": {
@@ -2371,27 +2425,136 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/9/95/BTWVShunya_profile.png/revision/latest?cb=20200623050715&path-prefix=en",
+                "alt": "BTWVShunya profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/f/f0/BTWVNana_profile.png/revision/latest?cb=20200623050754&path-prefix=en",
+                "alt": "BTWVNana profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/aa/Vol12Fujio_profile.png/revision/latest?cb=20200306000126&path-prefix=en",
+                "alt": "Vol12Fujio profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/b/b4/BTWVTakie_profile.png/revision/latest?cb=20200623050830&path-prefix=en",
+                "alt": "BTWVTakie profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/0/0e/BTWVRinko_profile.png/revision/latest?cb=20200623050905&path-prefix=en",
+                "alt": "BTWVRinko profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/f/f7/Vol12Hirayama_profile.png/revision/latest?cb=20200305232102&path-prefix=en",
+                "alt": "Vol12Hirayama profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/7a/BTWVShunsuke_profile.png/revision/latest?cb=20200623050944&path-prefix=en",
+                "alt": "BTWVShunsuke profile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7d/196Tetsuo%2C_Shunsuke%2C_and_Jun_react.png/revision/latest?cb=20210604004458&path-prefix=en",
                 "alt": "Shunsuke, Tetsuo, and Jun react to Rukia Kuchiki's arrival."
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/f/ff/BTWVAiko_profile.png/revision/latest?cb=20200623051023&path-prefix=en",
+                "alt": "BTWVAiko profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/e7/BTWVFuminobu_profile.png/revision/latest?cb=20200623051120&path-prefix=en",
+                "alt": "BTWVFuminobu profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/ee/BTWVJun_profile.png/revision/latest?cb=20200623051150&path-prefix=en",
+                "alt": "BTWVJun profile"
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7d/196Tetsuo%2C_Shunsuke%2C_and_Jun_react.png/revision/latest?cb=20210604004458&path-prefix=en",
                 "alt": "Jun, Shunsuke, and Tetsuo react to Rukia Kuchiki's arrival."
             },
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/4/49/58Tetsuo_profile.png/revision/latest?cb=20200115053103&path-prefix=en",
+                "alt": "58Tetsuo profile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7d/196Tetsuo%2C_Shunsuke%2C_and_Jun_react.png/revision/latest?cb=20210604004458&path-prefix=en",
                 "alt": "Tetsuo, Jun, and Shunsuke react to Rukia Kuchiki's arrival."
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep3MahanaNatsui.png/revision/latest?cb=20210312041534&path-prefix=en",
+                "alt": "Ep3MahanaNatsui"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/d/d9/BTWVNega_profile.png/revision/latest?cb=20200623051306&path-prefix=en",
+                "alt": "BTWVNega profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/f/fd/BTWVYuya_profile.png/revision/latest?cb=20200623051441&path-prefix=en",
+                "alt": "BTWVYuya profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/8/84/BTWVSayaka_profile.png/revision/latest?cb=20200623051516&path-prefix=en",
+                "alt": "BTWVSayaka profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/d/d8/BTWVConrad_profile.png/revision/latest?cb=20200623051553&path-prefix=en",
+                "alt": "BTWVConrad profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/0/0b/BTWVVictoria_profile.png/revision/latest?cb=20200623051629&path-prefix=en",
+                "alt": "BTWVVictoria profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/0/01/Vol12Onodera_profile.png/revision/latest?cb=20200306000200&path-prefix=en",
+                "alt": "Vol12Onodera profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/9/9f/Ep343SatodaProfile.png/revision/latest?cb=20221009010822&path-prefix=en",
+                "alt": "Ep343SatodaProfile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/d/de/BTWVMakoto_profile.png/revision/latest?cb=20200623051707&path-prefix=en",
+                "alt": "BTWVMakoto profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/6/64/Ep6MeguruProfile.png/revision/latest?cb=20200623051800&path-prefix=en",
+                "alt": "Ep6MeguruProfile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/ee/Vol12Takehara_profile.png/revision/latest?cb=20200305234501&path-prefix=en",
+                "alt": "Vol12Takehara profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/4/49/BTWVToda_profile.png/revision/latest?cb=20200623051858&path-prefix=en",
+                "alt": "BTWVToda profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/af/BTWVMikako_profile.png/revision/latest?cb=20200623051944&path-prefix=en",
+                "alt": "BTWVMikako profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/9/95/Ep6KaoriProfile.png/revision/latest?cb=20200623052031&path-prefix=en",
+                "alt": "Ep6KaoriProfile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/d/dc/BTWVMiho_profile.png/revision/latest?cb=20200623052115&path-prefix=en",
+                "alt": "BTWVMiho profile"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/7/74/BTWVKanan_profile.png/revision/latest?cb=20200623052220&path-prefix=en",
+                "alt": "BTWVKanan profile"
             }
-        ]
+        ],
+        "slug": "karakura-high-school-students"
     },
     {
         "id": "misato_ochi",
         "name": {
             "english": "Misato Ochi",
-            "kanji": "越智美諭",
+            "kanji": "\u8d8a\u667a\u7f8e\u8aed",
             "romaji": "Ochi Misato"
         },
-        "description": "Misato Ochi (越智美諭, Ochi Misato) is a teacher at Karakura High School. Her pupils include Ichigo Kurosaki and his friends. Misato Ochi is a young woman with rounded glasses and long brown hair tied back in a pony tail. She later cuts her hair to shoulder length. She is generally an easy going person who isn't bothered by Ichigo's absence. Nor of those of others such as Uryū and Chad, simply saying that they will eventually return to school.",
+        "description": "Misato Ochi (\u8d8a\u667a\u7f8e\u8aed, Ochi Misato) is a teacher at Karakura High School. Her pupils include Ichigo Kurosaki and his friends. Misato Ochi is a young woman with rounded glasses and long brown hair tied back in a pony tail.[1] She later cuts her hair to shoulder length.[2] She is generally an easy going person who isn't bothered by Ichigo's absence. Nor of those of others such as Ury\u016b and Chad, simply saying that they will eventually return to school.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/a/aa/Ep64MisatoProfile.png/revision/latest?cb=20210414224049&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2415,6 +2578,10 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/aa/Ep64MisatoProfile.png/revision/latest?cb=20210414224049&path-prefix=en",
+                "alt": "Ep64MisatoProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/ca/Ep68StudentsWakeInMountains.png/revision/latest?cb=20210415014251&path-prefix=en",
                 "alt": "Misato and her students wake up in the mountains."
             },
@@ -2422,16 +2589,17 @@
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f9/Ep142MisatoHitsIchigo.png/revision/latest?cb=20220118100400&path-prefix=en",
                 "alt": "Misato berates Ichigo for being away for so long."
             }
-        ]
+        ],
+        "slug": "misato-ochi"
     },
     {
         "id": "michiru_ogawa",
         "name": {
             "english": "Michiru Ogawa",
-            "kanji": "小川みちる",
+            "kanji": "\u5c0f\u5ddd\u307f\u3061\u308b",
             "romaji": "Ogawa Michiru"
         },
-        "description": "Michiru Ogawa (小川みちる, Ogawa Michiru) is a classmate of Ichigo Kurosaki and Orihime Inoue at Karakura High School. Michiru has short brown hair, with her bangs pulled back in a clip. She wears the standard Karakura High School uniform. Michiru is very shy and is afraid of Ichigo and Uryū Ishida because they never smile. She is in the same crafts club as Uryū. She is also considered to be a meeha, or a follower of new fads.",
+        "description": "Michiru Ogawa (\u5c0f\u5ddd\u307f\u3061\u308b, Ogawa Michiru) is a classmate of Ichigo Kurosaki and Orihime Inoue at Karakura High School. Michiru has short brown hair, with her bangs pulled back in a clip. She wears the standard Karakura High School uniform. Michiru is very shy and is afraid of Ichigo and Ury\u016b Ishida because they never smile but claims to not hate them. She is in the same crafts club as Ury\u016b.[2] She is also considered to be a meeha, or a follower of new fads.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/1/1b/Ep7MichiruProfile.png/revision/latest?cb=20210318231558&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2457,17 +2625,21 @@
             "Voices": {
                 "japanese": "Asami Sanada",
                 "english": "Colleen O'Shaughnessey",
-                "spanish": "Elisabet Bargalló (Spain)"
+                "spanish": "Elisabet Bargall\u00f3 (Spain)"
             }
         },
         "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/1/1b/Ep7MichiruProfile.png/revision/latest?cb=20210318231558&path-prefix=en",
+                "alt": "Ep7MichiruProfile"
+            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/b1/Ep7HomeworkDiscussion.png/revision/latest?cb=20210318231519&path-prefix=en",
                 "alt": "Michiru asks Tatsuki about her art project."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/64/Ep11MichiruThanksUry%C5%AB.png/revision/latest?cb=20210325002706&path-prefix=en",
-                "alt": "Michiru thanks Uryū for fixing her torn doll."
+                "alt": "Michiru thanks Ury\u016b for fixing her torn doll."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d8/Ep15LunchGossip.png/revision/latest?cb=20210327024351&path-prefix=en",
@@ -2477,16 +2649,17 @@
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/dc/Ep302KeigoTatsukiCarryClassmates.png/revision/latest?cb=20220914155122&path-prefix=en",
                 "alt": "Tatsuki carries Michiru."
             }
-        ]
+        ],
+        "slug": "michiru-ogawa"
     },
     {
-        "id": "reiichi_ōshima",
+        "id": "reiichi_\u014dshima",
         "name": {
-            "english": "Reiichi Ōshima",
-            "kanji": "大島麗一",
-            "romaji": "Ōshima Reiichi"
+            "english": "Reiichi \u014cshima",
+            "kanji": "\u5927\u5cf6\u9e97\u4e00",
+            "romaji": "\u014cshima Reiichi"
         },
-        "description": "Reiichi Ōshima (大島麗一, Ōshima Reiichi) is a student at Karakura High School. Reiichi is a tall teenager with bleached hair and bleached eyebrows. He has three earrings in his left ear and a ring on his lower left lip. Reiichi was part of a sizeable group fighting with Ichigo and Chad during their first day at Karakura High School. Reiichi confronts Ichigo Kurosaki on the roof of the school during lunch.",
+        "description": "Reiichi \u014cshima (\u5927\u5cf6\u9e97\u4e00, \u014cshima Reiichi) is a student at Karakura High School. Reiichi is a tall teenager with bleached hair and bleached eyebrows. He has three earrings in his left ear and a ring on his lower left lip. Reiichi was part of a sizeable group fighting with Ichigo and Chad during their first day at Karakura High School.[3] Reiichi confronts Ichigo Kurosaki on the roof of the school during lunch.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/5/50/Ep227OshimaProfile.png/revision/latest?cb=20190310181613&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2511,12 +2684,18 @@
                 "spanish": "Marc Winslow"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/5/50/Ep227OshimaProfile.png/revision/latest?cb=20190310181613&path-prefix=en",
+                "alt": "Ep227OshimaProfile"
+            }
+        ],
+        "slug": "reiichi-oshima"
     },
     {
         "id": "gitano_shigeo",
         "name": "Gitano Shigeo",
-        "description": "Gitano Shigeo is a teenager who is offered the parakeet that Yūichi Shibata's soul resides in. Gitano wears a regular T-shirt with a short-sleeved button up and a Hawaiian-style print shirt over it. He has shoulder length, blond hair and a goatee. He frequently carries his guitar case on his back. Due to his part time job barely covering his living costs, Gitano seeks out cheap food whenever possible, even ignoring expiration dates on food.",
+        "description": "Gitano Shigeo is a teenager who is offered the parakeet that Y\u016bichi Shibata's soul resides in. Gitano wears a regular T-shirt with a short-sleeved button up and a Hawaiian-style print shirt over it. He has shoulder length, blond hair and a goatee. He frequently carries his guitar case on his back. Due to his part time job barely covering his living costs, Gitano seeks out cheap food whenever possible, even ignoring expiration dates on food.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep12GitanoProfile.png/revision/latest?cb=20221122213020&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2534,16 +2713,22 @@
                 "english": "Brad MacDonald"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep12GitanoProfile.png/revision/latest?cb=20221122213020&path-prefix=en",
+                "alt": "Ep12GitanoProfile"
+            }
+        ],
+        "slug": "gitano-shigeo"
     },
     {
         "id": "keisuke_sorimachi",
         "name": {
             "english": "Keisuke Sorimachi",
-            "kanji": "反町 圭助",
+            "kanji": "\u53cd\u753a \u572d\u52a9",
             "romaji": "Sorimachi Keisuke"
         },
-        "description": "Keisuke Sorimachi (反町 圭助, Sorimachi Keisuke) is a student of Karakura High School. He is Reiichi Ōshima's friend and right hand man. Sorimachi has shoulder length brown hair which is kept back with the help of a hair fastener. His face is constantly pursed and his eyebrows lowered to keep up his tough guy act. Sorimachi accompanies Reiichi as he and their gang attack Ichigo Kurosaki and Yasutora Sado. Sorimachi is backing Reiichi up when he confronts Ichigo during lunchtime.",
+        "description": "Keisuke Sorimachi (\u53cd\u753a \u572d\u52a9, Sorimachi Keisuke)[1] is a student of Karakura High School. He is Reiichi \u014cshima's friend and right hand man. Sorimachi has shoulder length brown hair which is kept back with the help of a hair fastener. His face is constantly pursed and his eyebrows lowered to keep up his tough guy act. Sorimachi accompanies Reiichi as he and their gang attack Ichigo Kurosaki and Yasutora Sado.[2] Sorimachi is backing Reiichi up when he confronts Ichigo during lunchtime.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/5/58/Ep227SorimachiProfile.png/revision/latest?cb=20190310182432&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2563,16 +2748,22 @@
                 "anime": "Episode 227"
             }
         },
-        "media": []
+        "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/5/58/Ep227SorimachiProfile.png/revision/latest?cb=20190310182432&path-prefix=en",
+                "alt": "Ep227SorimachiProfile"
+            }
+        ],
+        "slug": "keisuke-sorimachi"
     },
     {
         "id": "mai_suzuki",
         "name": {
             "english": "Mai Suzuki",
-            "kanji": "鈴木 舞",
+            "kanji": "\u9234\u6728 \u821e",
             "romaji": "Suzuki Mai"
         },
-        "description": "Mai Suzuki (鈴木 舞, Suzuki Mai) is a high school student and former classmate of Kyōko Haida. Mai has brown hair with red clips on the left of her bangs, and has dark-colored eyes. She wears a school uniform from her high school, which consists of a short-sleeved white shirt, a light blue colored vest, and a dark blue skirt. Mai is a friendly and carefree teenage girl. She was also once the only friend of Kyōko Haida.",
+        "description": "Mai Suzuki (\u9234\u6728 \u821e, Suzuki Mai) is a high school student and former classmate of Ky\u014dko Haida. Mai has brown hair with red clips on the left of her bangs, and has dark-colored eyes. She wears a school uniform from her high school, which consists of a short-sleeved white shirt, a light blue colored vest, and a dark blue skirt.[1] Mai is a friendly and carefree teenage girl. She was also once the only friend of Ky\u014dko Haida.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a4/Ep261MaiProfile.png/revision/latest?cb=20190314180157&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2600,18 +2791,23 @@
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/64/Icon-Warning-Yellow.svg/revision/latest?cb=20070827215708&path-prefix=en",
                 "alt": "Icon-Warning-Yellow"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/a4/Ep261MaiProfile.png/revision/latest?cb=20190314180157&path-prefix=en",
+                "alt": "Ep261MaiProfile"
             }
-        ]
+        ],
+        "slug": "mai-suzuki"
     },
     {
         "id": "jackie_tristan",
         "name": {
             "english": "Jackie Tristan",
-            "kanji": "ジャッキー トリスタン",
-            "romaji": "Jakkī Torisutan"
+            "kanji": "\u30b8\u30e3\u30c3\u30ad\u30fc \u30c8\u30ea\u30b9\u30bf\u30f3",
+            "romaji": "Jakk\u012b Torisutan"
         },
-        "description": "Jackie Tristan (ジャッキー トリスタン, Jakkī Torisutan) is a Human who formerly possessed Fullbring powers and is a former member of the organization known as Xcution. Jackie is a tall dark-skinned woman with straight chin-length dark hair, brown eyes and full lips. She wears a dark brown long-sleeved low cut shirt with form-fitted trousers and dark knee lengths boots.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/0c/Ep347JackieProfile.png/revision/latest?cb=20221008002116&path-prefix=en",
+        "description": "Jackie Tristan (\u30b8\u30e3\u30c3\u30ad\u30fc \u30c8\u30ea\u30b9\u30bf\u30f3, Jakk\u012b Torisutan) is a Human who formerly possessed Fullbring powers and is a former member of the organization known as Xcution. Jackie is a tall dark-skinned woman with straight chin-length dark hair, brown eyes and full lips. She wears a dark brown long-sleeved low cut shirt with form-fitted trousers and dark knee lengths boots.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/0c/Ep347JackieProfile.png/revision/latest?cb=20231105043940&path-prefix=en",
         "stats": {
             "race": "Human",
             "gender": "Female",
@@ -2635,6 +2831,10 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/0/0c/Ep347JackieProfile.png/revision/latest?cb=20231105043940&path-prefix=en",
+                "alt": "Ep347JackieProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a9/Ep364YoungJackie.png/revision/latest?cb=20221221064346&path-prefix=en",
                 "alt": "Young Jackie."
             },
@@ -2644,11 +2844,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2e/Ep347JackieDisagrees.png/revision/latest?cb=20221225061551&path-prefix=en",
-                "alt": "Jackie disagrees with Kūgo's methods regarding Ichigo."
+                "alt": "Jackie disagrees with K\u016bgo's methods regarding Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/10/Ep348JackieKugo.png/revision/latest?cb=20230121005129&path-prefix=en",
-                "alt": "Jackie asks Kūgo if he thinks Ichigo will be alright."
+                "alt": "Jackie asks K\u016bgo if he thinks Ichigo will be alright."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/ae/Ep352JackiDirtyBoots4.png/revision/latest?cb=20221008225855&path-prefix=en",
@@ -2668,7 +2868,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep362XcutionWithIchigosPowers.png/revision/latest?cb=20221001214035&path-prefix=en",
-                "alt": "Jackie, Giriko, Yukio, and Riruka after receiving Ichigo's power from Kūgo."
+                "alt": "Jackie, Giriko, Yukio, and Riruka after receiving Ichigo's power from K\u016bgo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/90/Ep363RenjiAttacksJackie.png/revision/latest?cb=20221226023607&path-prefix=en",
@@ -2693,16 +2893,17 @@
                 "to": "Yukio Hans Vorarlberna",
                 "reference": "Bleach manga; Chapter 478, page 8"
             }
-        ]
+        ],
+        "slug": "jackie-tristan"
     },
     {
         "id": "ururu_tsumugiya",
         "name": {
             "english": "Ururu Tsumugiya",
-            "kanji": "紬屋 雨",
+            "kanji": "\u7d2c\u5c4b \u96e8",
             "romaji": "Tsumugiya Ururu"
         },
-        "description": "Ururu Tsumugiya (紬屋 雨, Tsumugiya Ururu) is an employee of the Urahara Shop. Ururu is a young-looking girl with a perpetual blush on her cheeks who wears a white t-shirt with the Urahara Shop logo in pink print and a knee-length, pink skirt with white dots. She has round purple eyes and long, black hair with a purple tint. It is parted down the middle, with two strands of her bangs in the middle of her face, opposing each other. The rest of her hair is in pigtails with pink ties.",
+        "description": "Ururu Tsumugiya (\u7d2c\u5c4b \u96e8, Tsumugiya Ururu) is an employee of the Urahara Shop. Ururu is a young-looking girl with a perpetual blush on her cheeks who wears a white t-shirt with the Urahara Shop logo in pink print and a knee-length, pink skirt with white dots. She has round purple eyes and long, black hair with a purple tint. It is parted down the middle, with two strands of her bangs in the middle of her face, opposing each other. The rest of her hair is in pigtails with pink ties.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep344UruruProfile.png/revision/latest?cb=20230125215615&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/f/f9/Ep205UruruProfile.png/revision/latest?cb=20180912233510&path-prefix=en"
@@ -2711,15 +2912,12 @@
             "race": "Human",
             "birthday": "September 9th",
             "gender": "Female",
-            "height": "141 cm (4'7½\")",
+            "height": "141 cm (4'7\u00bd\")",
             "weight": "32 kg (70 lbs)",
             "Professional Status": {
                 "affiliation": "Urahara Shop",
                 "occupation": "Employee at the Urahara Shop",
-                "previous team": [
-                    "Karakura Superheroes",
-                    "Karakura-Raizer Team"
-                ],
+                "previous team": "Karakura Superheroes",
                 "partner": "Jinta Hanakari",
                 "base of operations": [
                     "Urahara Shop",
@@ -2785,18 +2983,6 @@
                 "alt": "Ururu prepares to launch mat to catch Ichigo and his friends."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/8/89/Ep64UruruJintaTeaseRenji.png/revision/latest?cb=20210414224554&path-prefix=en",
-                "alt": "Ururu and Jinta taunting Renji to ask for seconds."
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/2/23/Ep77UruruJintaAttackMansion.png/revision/latest?cb=20210415063505&path-prefix=en",
-                "alt": "Ururu bombards the Bount's mansion using directions given to her from Jinta."
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/9/97/Ep86UruruPushesSado.png/revision/latest?cb=20201017031845&path-prefix=en",
-                "alt": "Ururu pushes Sado out of the way, saving him from Baura."
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/40/Ep120UruruAttacksYylfordt.png/revision/latest?cb=20230518173111&path-prefix=en",
                 "alt": "Ururu surprises Yylfordt."
             },
@@ -2805,27 +2991,24 @@
                 "alt": "Tessai healing Ururu's injuries."
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/0/04/Ep213TinyDevilUruru.png/revision/latest?cb=20190202164620&path-prefix=en",
-                "alt": "Ururu as the Karakura-Raizer Tiny-Devil."
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d3/SenrenBakusatsuTaih%C5%8D.gif/revision/latest?cb=20180904222027&path-prefix=en",
-                "alt": "Ururu with her weapon, Senren Bakusatsu Taihō."
+                "alt": "Ururu with her weapon, Senren Bakusatsu Taih\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/45/UrurusKick.gif/revision/latest?cb=20160404215530&path-prefix=en",
                 "alt": "Ururu kicks Yylfordt."
             }
-        ]
+        ],
+        "slug": "ururu-tsumugiya"
     },
     {
-        "id": "kyōko_haida",
+        "id": "ky\u014dko_haida",
         "name": {
-            "english": "Kyōko Haida",
-            "kanji": "灰田 響子",
-            "romaji": "Haida Kyōko"
+            "english": "Ky\u014dko Haida",
+            "kanji": "\u7070\u7530 \u97ff\u5b50",
+            "romaji": "Haida Ky\u014dko"
         },
-        "description": "Kyōko Haida (灰田 響子, Haida Kyōko) is a new student who transfers into Karakura High School during the events of the Tōjū Campaign. Kyōko has dark brown eyes and short black hair with bangs that curve inward. She initially wears her school uniform from the high school she transferred from, which consists of a short-sleeved white shirt, a light blue colored vest, and a dark blue skirt. She later receives a Karakura High School uniform. Initially, Kyōko is quiet and somewhat solitary.",
+        "description": "Ky\u014dko Haida (\u7070\u7530 \u97ff\u5b50, Haida Ky\u014dko) is a new student who transfers into Karakura High School during the events of the T\u014dj\u016b Campaign. Ky\u014dko has dark brown eyes and short black hair with bangs that curve inward. She initially wears her school uniform from the high school she transferred from, which consists of a short-sleeved white shirt, a light blue colored vest, and a dark blue skirt. She later receives a Karakura High School uniform. Initially, Ky\u014dko is quiet and somewhat solitary.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/3/3d/Ep261KyokoProfile.png/revision/latest?cb=20190310174036&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2845,7 +3028,7 @@
                 "anime": "Episode 261"
             },
             "Voices": {
-                "japanese": "Ryōko Shiraishi",
+                "japanese": "Ry\u014dko Shiraishi",
                 "english": "Colleen O'Shaughnessey"
             }
         },
@@ -2855,43 +3038,48 @@
                 "alt": "Icon-Warning-Yellow"
             },
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/3/3d/Ep261KyokoProfile.png/revision/latest?cb=20190310174036&path-prefix=en",
+                "alt": "Ep261KyokoProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d7/Ep261KyokoMaiFriends.png/revision/latest?cb=20190331221113&path-prefix=en",
-                "alt": "Kyōko and Mai Suzuki as friends."
+                "alt": "Ky\u014dko and Mai Suzuki as friends."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f1/261Kyoko_suggests.png/revision/latest?cb=20131215021613&path-prefix=en",
-                "alt": "Kyōko confronting Orihime Inoue about her unique powers."
+                "alt": "Ky\u014dko confronting Orihime Inoue about her unique powers."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/60/Ep261MouthlessTojuCounselsKyoko.png/revision/latest?cb=20190504202528&path-prefix=en",
-                "alt": "Kyōko conversing with the Zanpakutō's spirit."
+                "alt": "Ky\u014dko conversing with the Zanpakut\u014d's spirit."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8f/261Mai_sees.png/revision/latest?cb=20131215023048&path-prefix=en",
-                "alt": "Kyōko, possessed by the spirit, tries to kill Mai."
+                "alt": "Ky\u014dko, possessed by the spirit, tries to kill Mai."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2a/Ep261KyokoMouthlessTojuSeparated.png/revision/latest?cb=20190504202643&path-prefix=en",
-                "alt": "Orihime using her Sōten Kisshun to separate Kyōko from the Tōjū."
+                "alt": "Orihime using her S\u014dten Kisshun to separate Ky\u014dko from the T\u014dj\u016b."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/19/Ep261OrihimeKyokoFriends.png/revision/latest?cb=20190425075244&path-prefix=en",
-                "alt": "Orihime and Kyōko become friends."
+                "alt": "Orihime and Ky\u014dko become friends."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/24/Mouthless_Possessing_Toju.png/revision/latest?cb=20131215024520&path-prefix=en",
-                "alt": "The Tōjū possessing Kyōko Haida."
+                "alt": "The T\u014dj\u016b possessing Ky\u014dko Haida."
             }
-        ]
+        ],
+        "slug": "kyoko-haida"
     },
     {
         "id": "haruko",
         "name": {
             "english": "Haruko",
-            "kanji": "ハルコ",
+            "kanji": "\u30cf\u30eb\u30b3",
             "romaji": "Haruko"
         },
-        "description": "Haruko (ハルコ, Haruko) is a citizen of Karakura Town. She is a Human who possesses spiritual power. Haruko is a bespectacled buxom young woman with red-violet hair and dark purple eyes. She wears a golden yellow hair clip on the back of her head, and her hair extends past her shoulders and down the upper part of her back. She wears a dark blue dress with a white shirt underneath, an off-white jacket-like blouse over her dress, dark blue leggings, and brown high-heeled shoes.",
+        "description": "Haruko (\u30cf\u30eb\u30b3, Haruko) is a citizen of Karakura Town. She is a Human who possesses spiritual power. Haruko is a bespectacled buxom young woman with red-violet hair and dark purple eyes. She wears a golden yellow hair clip on the back of her head, and her hair extends past her shoulders and down the upper part of her back. She wears a dark blue dress with a white shirt underneath, an off-white jacket-like blouse over her dress, dark blue leggings, and brown high-heeled shoes.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep314HarukoProfile.png/revision/latest?cb=20190310175632&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2914,6 +3102,10 @@
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/64/Icon-Warning-Yellow.svg/revision/latest?cb=20070827215708&path-prefix=en",
                 "alt": "Icon-Warning-Yellow"
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep314HarukoProfile.png/revision/latest?cb=20190310175632&path-prefix=en",
+                "alt": "Ep314HarukoProfile"
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fc/Ep314HarukoAsksDirections.png/revision/latest?cb=20190503010739&path-prefix=en",
@@ -2947,16 +3139,17 @@
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8b/Ep314HarukoHugsIchigo.png/revision/latest?cb=20190503011048&path-prefix=en",
                 "alt": "Haruko embraces Ichigo, not realizing who he is."
             }
-        ]
+        ],
+        "slug": "haruko"
     },
     {
         "id": "shinji_iijima",
         "name": {
             "english": "Shinji Iijima",
-            "kanji": "飯島真治",
+            "kanji": "\u98ef\u5cf6\u771f\u6cbb",
             "romaji": "Iijima Shinji"
         },
-        "description": "This article is about the high school student Shinji. For the Visored, see Shinji Hirako. Shinji Iijima (飯島真治, Iijima Shinji) is a freshman in Karakura High School and a member of the Karakura High School Kendō Club. Shinji is a small teenage boy with brown hair. He has large brown eyes and wears the school kendo uniform. Shinji is initially a coward, however, thanks to Ikkaku Madarame, he is able to gain enough courage to avenge the defeat of his seniors.",
+        "description": "This article is about the high school student Shinji. For the Visored, see Shinji Hirako. Shinji Iijima (\u98ef\u5cf6\u771f\u6cbb, Iijima Shinji) is a freshman in Karakura High School and a member of the Karakura High School Kend\u014d Club. Shinji is a small teenage boy with brown hair. He has large brown eyes and wears the school kendo uniform.[1] Shinji is initially a coward, however, thanks to Ikkaku Madarame, he is able to gain enough courage to avenge the defeat of his seniors.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e8/Ep133ShinjiProfile.png/revision/latest?cb=20211027051649&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -2985,19 +3178,24 @@
                 "alt": "Icon-Warning-Yellow"
             },
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/e8/Ep133ShinjiProfile.png/revision/latest?cb=20211027051649&path-prefix=en",
+                "alt": "Ep133ShinjiProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c3/Ep133ShinjiStrikesOpponent.png/revision/latest?cb=20211027053258&path-prefix=en",
                 "alt": "Shinji delivers the winning hit onto his opponent."
             }
-        ]
+        ],
+        "slug": "shinji-iijima"
     },
     {
         "id": "miyuki",
         "name": {
             "english": "Miyuki",
-            "kanji": "みゆき",
+            "kanji": "\u307f\u3086\u304d",
             "romaji": "Miyuki"
         },
-        "description": "Miyuki (みゆき, Miyuki) is a Human girl that was saved by Kon after almost drowning. Miyuki's appearance is that of a young girl with short, brown shoulder-length hair, gray eyes, and a perpetual blush on her cheeks. Miyuki, whose parents split up, doesn't have any friends and spends most of the day alone with her only companion, a stuffed doll.",
+        "description": "Miyuki (\u307f\u3086\u304d, Miyuki) is a Human girl that was saved by Kon after almost drowning. Miyuki's appearance is that of a young girl with short, brown shoulder-length hair, gray eyes, and a perpetual blush on her cheeks.[1] Miyuki, whose parents split up, doesn't have any friends and spends most of the day alone with her only companion, a stuffed doll.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep135MiyukiProfile.png/revision/latest?cb=20211118023504&path-prefix=en",
         "stats": {
             "race": "Human",
@@ -3025,24 +3223,29 @@
                 "alt": "Icon-Warning-Yellow"
             },
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep135MiyukiProfile.png/revision/latest?cb=20211118023504&path-prefix=en",
+                "alt": "Ep135MiyukiProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f2/Ep135MiyukiFamily.png/revision/latest?cb=20211118024238&path-prefix=en",
-                "alt": "Miyuki and her family as well as the original Shintarō"
+                "alt": "Miyuki and her family as well as the original Shintar\u014d"
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e7/Ep135MiyukiWithShintaro.png/revision/latest?cb=20211118023205&path-prefix=en",
-                "alt": "Miyuki and Shintarō the doll"
+                "alt": "Miyuki and Shintar\u014d the doll"
             }
-        ]
+        ],
+        "slug": "miyuki"
     },
     {
         "id": "riruka_dokugamine",
         "name": {
             "english": "Riruka Dokugamine",
-            "kanji": "毒ヶ峰 リルカ",
+            "kanji": "\u6bd2\u30f6\u5cf0 \u30ea\u30eb\u30ab",
             "romaji": "Dokugamine Riruka"
         },
-        "description": "Riruka Dokugamine (毒ヶ峰 リルカ, Dokugamine Riruka) is a Fullbringer and formerly member No. 003 of the organization known as Xcution. Riruka is a young, slender girl with magenta eyes and long hair of matching color, styled into two pigtails, and between which she wears a light-colored hat that has two extensions in the back, made to look like rabbit's ears. A strand of hair hangs down the right side of her face and she has a fringe over her forehead.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/40/Ep352RirukaProfile.png/revision/latest?cb=20221008002224&path-prefix=en",
+        "description": "Riruka Dokugamine (\u6bd2\u30f6\u5cf0 \u30ea\u30eb\u30ab, Dokugamine Riruka) is a Fullbringer and formerly member No. 003[1] of the organization known as Xcution. Riruka is a young, slender girl with magenta eyes and long hair of matching color, tied into two pigtails, and between which she wears a light-colored hat that has two extensions in the back, made to look like rabbit's ears.[3] A strand of hair hangs down the right side of her face and she has a fringe over her forehead.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/40/Ep352RirukaProfile.png/revision/latest?cb=20231105155442&path-prefix=en",
         "stats": {
             "race": [
                 "Human",
@@ -3050,7 +3253,7 @@
             ],
             "birthday": "April 14",
             "gender": "Female",
-            "height": "156 cm (5'1½\")",
+            "height": "156 cm (5'1\u00bd\")",
             "weight": "43 kg (95 lbs.)",
             "blood type": "B",
             "Professional Status": {
@@ -3074,6 +3277,10 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/4/40/Ep352RirukaProfile.png/revision/latest?cb=20231105155442&path-prefix=en",
+                "alt": "Episode 352 Riruka"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/63/Ep364YoungRiruka.png/revision/latest?cb=20221225062814&path-prefix=en",
                 "alt": "Young Riruka."
             },
@@ -3083,7 +3290,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a8/Ep345RirukaGirikoAppear.png/revision/latest?cb=20221225062906&path-prefix=en",
-                "alt": "Riruka and Giriko ask Kūgo about recruiting Ichigo."
+                "alt": "Riruka and Giriko ask K\u016bgo about recruiting Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/19/Ep346RirukaFallsToKnees.png/revision/latest?cb=20230317222918&path-prefix=en",
@@ -3123,7 +3330,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep362XcutionWithIchigosPowers.png/revision/latest?cb=20221001214035&path-prefix=en",
-                "alt": "Jackie, Giriko, Yukio, and Riruka after receiving Ichigo's stolen power from Ginjō."
+                "alt": "Jackie, Giriko, Yukio, and Riruka after receiving Ichigo's stolen power from Ginj\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/50/Riruka_stabs_Rukia.png/revision/latest?cb=20221221070423&path-prefix=en",
@@ -3166,6 +3373,10 @@
                 "alt": "Riruka wearing a swimsuit."
             },
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/5/53/BBSSwimsuit_Riruka2.png/revision/latest?cb=20230825071740&path-prefix=en",
+                "alt": "Riruka wearing a swimsuit."
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3a/BBSMachine_Society_Riruka.png/revision/latest?cb=20210226221014&path-prefix=en",
                 "alt": "Promotional artwork of an alternate-universe Riruka from the Machine Society."
             }
@@ -3196,17 +3407,18 @@
                 "to": "Rukia Kuchiki",
                 "reference": "Bleach manga; Chapter 471, page 11"
             }
-        ]
+        ],
+        "slug": "riruka-dokugamine"
     },
     {
-        "id": "kūgo_ginjō",
+        "id": "k\u016bgo_ginj\u014d",
         "name": {
-            "english": "Kūgo Ginjō",
-            "kanji": "銀城 空吾",
-            "romaji": "Ginjō Kūgo"
+            "english": "K\u016bgo Ginj\u014d",
+            "kanji": "\u9280\u57ce \u7a7a\u543e",
+            "romaji": "Ginj\u014d K\u016bgo"
         },
-        "description": "Kūgo Ginjō (銀城 空吾, Ginjō Kūgo) is a Fullbringer and was the leader and member No. 001 of the organization known as Xcution. He is also a former Substitute Shinigami. Ginjō is a tall and lean-built man with fair skin, brown eyes, and shoulder-length black hair that he keeps combed back, down to the nape of his neck. After being released from Tsukishima's Fullbring, Ginjō lets his hair become messy with strands hanging over his face.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/2d/Ep344GinjoProfile.png/revision/latest?cb=20230125214803&path-prefix=en",
+        "description": "K\u016bgo Ginj\u014d (\u9280\u57ce \u7a7a\u543e, Ginj\u014d K\u016bgo) is a Fullbringer and was the leader and member No. 001 of the organization known as Xcution.[1] He is also a former Substitute Shinigami. Ginj\u014d is a tall and lean-built man with fair skin, brown eyes,[3] and shoulder-length black hair that he keeps combed back, down to the nape of his neck. After being released from Tsukishima's Fullbring, Ginj\u014d lets his hair become messy with strands hanging over his face.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/2d/Ep344GinjoProfile.png/revision/latest?cb=20231105044507&path-prefix=en",
         "stats": {
             "race": [
                 "Soul",
@@ -3214,7 +3426,7 @@
             ],
             "birthday": "November 15",
             "gender": "Male",
-            "height": "187 cm (6'1½\")",
+            "height": "187 cm (6'1\u00bd\")",
             "weight": "90 kg (198 lbs.)",
             "blood type": "AB",
             "Professional Status": {
@@ -3236,102 +3448,106 @@
                 "anime": "Episode 343"
             },
             "Voices": {
-                "japanese": "Hiroki Tōchi",
+                "japanese": "Hiroki T\u014dchi",
                 "english": [
                     "Travis Willingham",
                     "Christopher Swindle"
                 ],
-                "spanish": "Pablo Mejía (Latin America)"
+                "spanish": "Pablo Mej\u00eda (Latin America)"
             }
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/2/2d/Ep344GinjoProfile.png/revision/latest?cb=20231105044507&path-prefix=en",
+                "alt": "Ep344GinjoProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3c/Ep366GinjoSavesTsukishima.png/revision/latest?cb=20220906041916&path-prefix=en",
-                "alt": "Ginjō first meets Tsukishima."
+                "alt": "Ginj\u014d first meets Tsukishima."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8a/GinjoandIchigo.png/revision/latest?cb=20221001221758&path-prefix=en",
-                "alt": "Ichigo returns Ginjō's bag to him."
+                "alt": "Ichigo returns Ginj\u014d's bag to him."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/da/Ep344_Kugo_Searches_For_Isshin.png/revision/latest?cb=20230125215120&path-prefix=en",
-                "alt": "Ginjō talking about Isshin."
+                "alt": "Ginj\u014d talking about Isshin."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/df/Kugo_Fullbrings_His_Drink.png/revision/latest?cb=20230317224106&path-prefix=en",
-                "alt": "Ginjō demonstrates Fullbring."
+                "alt": "Ginj\u014d demonstrates Fullbring."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/60/Kugo_Puts_His_Sword_Away.png/revision/latest?cb=20230317224023&path-prefix=en",
-                "alt": "Ginjō returns his sword to its original state."
+                "alt": "Ginj\u014d returns his sword to its original state."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7f/Ep348GinjoTeasesIchigo.png/revision/latest?cb=20230121005048&path-prefix=en",
-                "alt": "Ginjō taunts Ichigo for returning."
+                "alt": "Ginj\u014d taunts Ichigo for returning."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/39/Kugo_defends_Ichigo.png/revision/latest?cb=20230201044835&path-prefix=en",
-                "alt": "Ginjō defends Ichigo from Tsukishima."
+                "alt": "Ginj\u014d defends Ichigo from Tsukishima."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c5/Ep353EnergyBlade.png/revision/latest?cb=20230201044456&path-prefix=en",
-                "alt": "Ginjō attacks Tsukishima."
+                "alt": "Ginj\u014d attacks Tsukishima."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3b/Ep354YukioActivatesHisPowers.png/revision/latest?cb=20230201053153&path-prefix=en",
-                "alt": "Ginjō and Ichigo are loaded into Yukio's Fullbring."
+                "alt": "Ginj\u014d and Ichigo are loaded into Yukio's Fullbring."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/1a/Ep356ShitenK%C5%8Dshun.png/revision/latest?cb=20221008000710&path-prefix=en",
-                "alt": "Ginjō's attack is stopped by Orihime."
+                "alt": "Ginj\u014d's attack is stopped by Orihime."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/73/Ep356IchigoDodgesSlash.png/revision/latest?cb=20221007231839&path-prefix=en",
-                "alt": "Ginjō fends off Ichigo's attack."
+                "alt": "Ginj\u014d fends off Ichigo's attack."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/29/Ep356IchigoCompletesFullbring.png/revision/latest?cb=20221007223436&path-prefix=en",
-                "alt": "Ginjō explains that Ichigo has completed his Fullbring."
+                "alt": "Ginj\u014d explains that Ichigo has completed his Fullbring."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/65/Kugo_tells_Ichigo_to_fight.png/revision/latest?cb=20221006173622&path-prefix=en",
-                "alt": "Ginjō tells Ichigo to fight all out."
+                "alt": "Ginj\u014d tells Ichigo to fight all out."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/26/Kugo_stabbed_by_Tsukishima.png/revision/latest?cb=20221006184306&path-prefix=en",
-                "alt": "Ginjō protects Ichigo from Tsukishima."
+                "alt": "Ginj\u014d protects Ichigo from Tsukishima."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/86/Ep360GinjoLaughs.png/revision/latest?cb=20221006182503&path-prefix=en",
-                "alt": "Ginjō betrays Ichigo."
+                "alt": "Ginj\u014d betrays Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d0/Ep362KugosTransformation.png/revision/latest?cb=20221001222942&path-prefix=en",
-                "alt": "Ginjō emerges after Ichigo's Getsuga."
+                "alt": "Ginj\u014d emerges after Ichigo's Getsuga."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c1/Ichigovskugo.png/revision/latest?cb=20220906042733&path-prefix=en",
-                "alt": "Ginjō fights Ichigo."
+                "alt": "Ginj\u014d fights Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ichgiocutskugo.png/revision/latest?cb=20220906045007&path-prefix=en",
-                "alt": "Ichigo attacks Ginjō."
+                "alt": "Ichigo attacks Ginj\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/14/518Ganju_and_Fullbringers.png/revision/latest?cb=20170830223359&path-prefix=en",
-                "alt": "Ginjō in Soul Society with Tsukishima, Giriko and Ganju."
+                "alt": "Ginj\u014d in Soul Society with Tsukishima, Giriko and Ganju."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/ca/681Fullbringers_arrive.png/revision/latest?cb=20190523141605&path-prefix=en",
-                "alt": "Ginjō arrives in Wahrwelt along with Tsukishima and Yukio."
+                "alt": "Ginj\u014d arrives in Wahrwelt along with Tsukishima and Yukio."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ee/Ep350_show_badge.png/revision/latest?cb=20230227064312&path-prefix=en",
-                "alt": "Ginjō holding his badge."
+                "alt": "Ginj\u014d holding his badge."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e1/Kugo_speed.gif/revision/latest?cb=20120725175644&path-prefix=en",
-                "alt": "Ginjō's Enhanced Speed."
+                "alt": "Ginj\u014d's Enhanced Speed."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/5f/Ep347SwordOfScaffold.png/revision/latest?cb=20221008225719&path-prefix=en",
@@ -3343,35 +3559,39 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8b/Ep362KugoTransforms.png/revision/latest?cb=20221001212144&path-prefix=en",
-                "alt": "Ginjō in Ichigo's Fullbring armor wielding an enhanced Cross of Scaffold"
+                "alt": "Ginj\u014d in Ichigo's Fullbring armor wielding an enhanced Cross of Scaffold"
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/de/KugoGetsugaTensho.gif/revision/latest?cb=20130422135804&path-prefix=en",
-                "alt": "Ginjō's Getsuga Tenshō"
+                "alt": "Ginj\u014d's Getsuga Tensh\u014d"
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9d/Ep365GinjoBankai.png/revision/latest?cb=20221211022247&path-prefix=en",
-                "alt": "Ginjō's Bankai"
+                "alt": "Ginj\u014d's Bankai"
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3d/KugoBankaiEnergyBeam.gif/revision/latest?cb=20180701212346&path-prefix=en",
-                "alt": "Ginjō's energy beam attack."
+                "alt": "Ginj\u014d's energy beam attack."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/BBSGinjoCFYOW.png/revision/latest?cb=20210226043513&path-prefix=en",
-                "alt": "Promotional artwork of Ginjō as a Soul in Bleach: Brave Souls."
+                "alt": "Promotional artwork of Ginj\u014d as a Soul in Bleach: Brave Souls."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/60/BBSEmpowered_Ginjo.png/revision/latest?cb=20210226043545&path-prefix=en",
-                "alt": "Ginjō after being empowered by Ichigo Kurosaki's Fullbring."
+                "alt": "Ginj\u014d after being empowered by Ichigo Kurosaki's Fullbring."
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/a/ae/BBSGinjo.png/revision/latest?cb=20230825070605&path-prefix=en",
+                "alt": "Ginj\u014d's alternate empowered form."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2f/BBSBankai_Ginjo.png/revision/latest?cb=20210226043710&path-prefix=en",
-                "alt": "Ginjō wielding the Bankai he gained from Ichigo's power."
+                "alt": "Ginj\u014d wielding the Bankai he gained from Ichigo's power."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/ae/BBSLost_Ginjo.png/revision/latest?cb=20210914034044&path-prefix=en",
-                "alt": "Ginjō wielding the Bankai he gained from Ichigo's power."
+                "alt": "Ginj\u014d wielding the Bankai he gained from Ichigo's power."
             }
         ],
         "quotes": [
@@ -3396,21 +3616,22 @@
                 "reference": "Bleach manga; Chapter 477, pages 9-10"
             },
             {
-                "quote": "Back From Black Welcome To Our Xcution Fullbring Training Fullbring Training, Round 2 Fullbring Training, Round 3 Ichigo Kurosaki & Kūgo Ginjō vs. Shūkurō Tsukishima Ichigo Kurosaki & Kūgo Ginjō vs. Shūkurō Tsukishima & Xcution Death & Strawberry: Deathberry Returns Ichigo Kurosaki & Uryū Ishida vs. Kūgo Ginjō The Royal Guard Arrive",
+                "quote": "Back From Black Welcome To Our Xcution Fullbring Training Fullbring Training, Round 2 Fullbring Training, Round 3 Ichigo Kurosaki & K\u016bgo Ginj\u014d vs. Sh\u016bkur\u014d Tsukishima Ichigo Kurosaki & K\u016bgo Ginj\u014d vs. Sh\u016bkur\u014d Tsukishima & Xcution Death & Strawberry: Deathberry Returns Ichigo Kurosaki & Ury\u016b Ishida vs. K\u016bgo Ginj\u014d The Royal Guard Arrive",
                 "to": "Herself",
                 "reference": null
             }
-        ]
+        ],
+        "slug": "kugo-ginjo"
     },
     {
         "id": "giriko_kutsuzawa",
         "name": {
             "english": "Giriko Kutsuzawa",
-            "kanji": "沓沢 ギリコ",
+            "kanji": "\u6c93\u6ca2 \u30ae\u30ea\u30b3",
             "romaji": "Kutsuzawa Giriko"
         },
-        "description": "Giriko Kutsuzawa (沓沢 ギリコ, Kutsuzawa Giriko) is a Fullbringer and a member of Xcution. Giriko is a tall, middle-aged man who possesses short dark hair, brown eyes and a thick mustache. He wears a shirt and dark waistcoat with a bow tie, reminiscent of a typical bartender's outfit. Over his face, he wears a dark leather-like strap to cover his right eye and he carries a cane-like object in his hand.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/c8/Ep351GirikoProfile.png/revision/latest?cb=20221001190952&path-prefix=en",
+        "description": "Giriko Kutsuzawa in \"The Six Fullbringers\"Truly, it is in impeccable timing that the divine can be found. Giriko Kutsuzawa (\u6c93\u6ca2 \u30ae\u30ea\u30b3, Kutsuzawa Giriko) is a Fullbringer and a member of Xcution. Giriko is a tall, middle-aged man who possesses short dark hair, brown eyes and a thick mustache. He wears a shirt and dark waistcoat with a bow tie, reminiscent of a typical bartender's outfit.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/c8/Ep351GirikoProfile.png/revision/latest?cb=20231105044630&path-prefix=en",
         "stats": {
             "race": [
                 "Soul",
@@ -3440,6 +3661,10 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/c/c8/Ep351GirikoProfile.png/revision/latest?cb=20231105044630&path-prefix=en",
+                "alt": "Ep351GirikoProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/84/Ep364YoungGiriko.png/revision/latest?cb=20221221064225&path-prefix=en",
                 "alt": "Giriko as a younger man."
             },
@@ -3449,11 +3674,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a8/Ep345RirukaGirikoAppear.png/revision/latest?cb=20221225062906&path-prefix=en",
-                "alt": "Giriko and Riruka ask about Kūgo's progress."
+                "alt": "Giriko and Riruka ask about K\u016bgo's progress."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e0/Ep346GirikoAsksGinjo.png/revision/latest?cb=20230317224004&path-prefix=en",
-                "alt": "Giriko asks Kūgo to put the sword away."
+                "alt": "Giriko asks K\u016bgo to put the sword away."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/68/Ep348Timer.png/revision/latest?cb=20230121012521&path-prefix=en",
@@ -3461,7 +3686,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep362XcutionWithIchigosPowers.png/revision/latest?cb=20221001214035&path-prefix=en",
-                "alt": "Giriko and the others after receiving Ichigo's power from Kūgo."
+                "alt": "Giriko and the others after receiving Ichigo's power from K\u016bgo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/ca/Ep362GirikoSplits.png/revision/latest?cb=20221001201030&path-prefix=en",
@@ -3469,7 +3694,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/14/518Ganju_and_Fullbringers.png/revision/latest?cb=20170830223359&path-prefix=en",
-                "alt": "Giriko in Soul Society with Tsukishima, Kūgo and Ganju."
+                "alt": "Giriko in Soul Society with Tsukishima, K\u016bgo and Ganju."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/81/Ep348TimeTellsNoLies.png/revision/latest?cb=20230121011233&path-prefix=en",
@@ -3498,20 +3723,21 @@
                 "to": "Herself",
                 "reference": "Bleach manga; Chapter 436, page 11"
             }
-        ]
+        ],
+        "slug": "giriko-kutsuzawa"
     },
     {
         "id": "yasutora_sado",
         "name": {
             "english": "Yasutora Sado",
-            "kanji": "茶渡 泰虎, Sado Yasutora), also known as Chad (チャド",
+            "kanji": "\u8336\u6e21 \u6cf0\u864e, Sado Yasutora), also known as Chad (\u30c1\u30e3\u30c9",
             "romaji": "Chado"
         },
-        "description": "Yasutora Sado (茶渡 泰虎, Sado Yasutora), also known as Chad (チャド, Chado), is a Human living in Karakura Town. He is a professional boxer who participates in televised matches. He was a classmate of Ichigo Kurosaki's during their time at Karakura High School. Sado is a teenager of Mexican and Japanese descent. He is dark-skinned with pronounced cheek-bones and has wavy brown hair with bangs that generally hangs over his brown eyes.",
+        "description": "Yasutora Sado (\u8336\u6e21 \u6cf0\u864e, Sado Yasutora), also known as Chad (\u30c1\u30e3\u30c9, Chado), is a Human living in Karakura Town. He is a professional boxer who participates in televised matches. He was a classmate of Ichigo Kurosaki's during their time at Karakura High School. Sado is a teenager of Mexican and Japanese descent. He is dark-skinned with pronounced cheek-bones and has wavy brown hair with bangs that generally hangs over his brown eyes.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/4/4b/686Post-War_Sado.png/revision/latest?cb=20190523143253&path-prefix=en",
-            "https://static.wikia.nocookie.net/bleach/images/e/e9/Ep351SadoProfile.png/revision/latest?cb=20221001190324&path-prefix=en",
-            "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep158SadoProfile.png/revision/latest?cb=20230727234127&path-prefix=en"
+            "https://static.wikia.nocookie.net/bleach/images/e/e9/Ep351SadoProfile.png/revision/latest?cb=20231105184729&path-prefix=en",
+            "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep158SadoProfile.png/revision/latest?cb=20231105184802&path-prefix=en"
         ],
         "stats": {
             "race": [
@@ -3519,9 +3745,9 @@
                 "Fullbringer"
             ],
             "birthday": "April 7",
-            "age": "16 (Pre-Timeskip) 18 (Post-Timeskip)[1] 28 (Epilogue)",
+            "age": "16 (2001) 18 (2003)[1] 28 (2013)",
             "gender": "Male",
-            "height": "197 cm (6'5¾”)",
+            "height": "197 cm (6'5\u00be\u201d)",
             "weight": "112 kg (247 lbs.)[1] (formerly) 118 kg (260 lbs.)",
             "blood type": "A",
             "Professional Status": {
@@ -3532,7 +3758,7 @@
                 "base of operations": "Karakura Town"
             },
             "Personal Status": {
-                "relatives": "Oscar Joaquín de la Rosa",
+                "relatives": "Oscar Joaqu\u00edn de la Rosa",
                 "education": "Karakura High School"
             },
             "Primary Skill": {
@@ -3559,11 +3785,11 @@
                 "alt": "2013"
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e9/Ep351SadoProfile.png/revision/latest?cb=20221001190324&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/e9/Ep351SadoProfile.png/revision/latest?cb=20231105184729&path-prefix=en",
                 "alt": "2003"
             },
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep158SadoProfile.png/revision/latest?cb=20230727234127&path-prefix=en",
+                "source": "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep158SadoProfile.png/revision/latest?cb=20231105184802&path-prefix=en",
                 "alt": "2001"
             },
             {
@@ -3596,7 +3822,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2a/Ep18TryingToConvinceUryu.png/revision/latest?cb=20210328071802&path-prefix=en",
-                "alt": "Yoruichi, Sado, and Orihime try to recruit Uryū."
+                "alt": "Yoruichi, Sado, and Orihime try to recruit Ury\u016b."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9b/Ep21RyokaLandInSoulSociety.png/revision/latest?cb=20210330095151&path-prefix=en",
@@ -3628,7 +3854,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/dd/Ep144IchigoSadoUryuEnterHuecoMundo.png/revision/latest?cb=20230518172817&path-prefix=en",
-                "alt": "Sado, Uryū, and Ichigo arrive in Hueco Mundo."
+                "alt": "Sado, Ury\u016b, and Ichigo arrive in Hueco Mundo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/59/Ep150FivePaths.png/revision/latest?cb=20230610002930&path-prefix=en",
@@ -3676,7 +3902,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/de/Ep367IchigoFriendsArrive.png/revision/latest?cb=20221010200257&path-prefix=en",
-                "alt": "Ichigo, Uryū, Sado, and Orihime confront the Hollows."
+                "alt": "Ichigo, Ury\u016b, Sado, and Orihime confront the Hollows."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/5a/491Orihime_notes.png/revision/latest?cb=20170827201645&path-prefix=en",
@@ -3762,7 +3988,7 @@
         "quotes": [
             {
                 "quote": "The more complex a person, the weaker they are.",
-                "to": "About Uryū Ishida",
+                "to": "About Ury\u016b Ishida",
                 "reference": "Bleach manga; Chapter 69, page 17"
             },
             {
@@ -3790,17 +4016,18 @@
                 "to": "Gantenbainne Mosqueda",
                 "reference": "Bleach manga; Chapter 261, pages 13-14"
             }
-        ]
+        ],
+        "slug": "yasutora-sado"
     },
     {
         "id": "moe_shishigawara",
         "name": {
             "english": "Moe Shishigawara",
-            "kanji": "獅子河原 萌笑",
+            "kanji": "\u7345\u5b50\u6cb3\u539f \u840c\u7b11",
             "romaji": "Shishigawara Moe"
         },
-        "description": "Moe Shishigawara (獅子河原 萌笑, Shishigawara Moe) is a high school student from Miyashita Commercial High School. He is also a Fullbringer who once worked under Shūkurō Tsukishima. Moe is short teenager who sports a shaved head with a buzzed mohawk in the middle, and grey eyes. His right hand is wrapped in bandages in order to conceal his knuckle. He wears his high school uniform with his jacket open. Under his jacket he wears a red shirt with a face on it. He has a gangster like appearance.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e7/Ep349ShishigawaraProfile3.png/revision/latest?cb=20230222041014&path-prefix=en",
+        "description": "Moe Shishigawara (\u7345\u5b50\u6cb3\u539f \u840c\u7b11, Shishigawara Moe) is a high school student from Miyashita Commercial High School. He is also a Fullbringer who once worked under Sh\u016bkur\u014d Tsukishima. Moe is short teenager who sports a shaved head with a buzzed mohawk in the middle, and grey eyes. His right hand is wrapped in bandages in order to conceal his knuckle. He wears his high school uniform with his jacket open. Under his jacket he wears a red shirt with a face on it. He has a gangster like appearance.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e7/Ep349ShishigawaraProfile3.png/revision/latest?cb=20230912201056&path-prefix=en",
         "stats": {
             "race": [
                 "Human",
@@ -3808,7 +4035,7 @@
             ],
             "gender": "Male",
             "Professional Status": {
-                "affiliation": "Shūkurō Tsukishima",
+                "affiliation": "Sh\u016bkur\u014d Tsukishima",
                 "occupation": "High School Student"
             },
             "Personal Status": {
@@ -3828,6 +4055,10 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/e7/Ep349ShishigawaraProfile3.png/revision/latest?cb=20230912201056&path-prefix=en",
+                "alt": "Ep349ShishigawaraProfile3"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9d/Ep349MoeStalksOrihime.png/revision/latest?cb=20230220062959&path-prefix=en",
                 "alt": "Moe stalks Orihime."
             },
@@ -3845,11 +4076,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d3/Ep360MoeArrives.png/revision/latest?cb=20221006182346&path-prefix=en",
-                "alt": "Moe steps in to fight Kūgo."
+                "alt": "Moe steps in to fight K\u016bgo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d2/Ep363MoeBreaksHozukimaru.png/revision/latest?cb=20221226022653&path-prefix=en",
-                "alt": "Moe breaks Ikkaku's Zanpakutō."
+                "alt": "Moe breaks Ikkaku's Zanpakut\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7d/Ep366MoeCarriesTsukishima.png/revision/latest?cb=20220906042544&path-prefix=en",
@@ -3875,7 +4106,7 @@
         "quotes": [
             {
                 "quote": "As your underling, I can't just turn my back on this situation! I appreciate your concern, Tsukishima-san, but I value your honor over my own life!",
-                "to": "Shūkurō Tsukishima",
+                "to": "Sh\u016bkur\u014d Tsukishima",
                 "reference": "Bleach manga; Chapter 439, page 10"
             },
             {
@@ -3895,25 +4126,26 @@
             },
             {
                 "quote": "You're the greatest, and that's all there is to it! So don't you do dyin' on me, Tsukishima-san! You're the most awesome guy there is! So you can't go dyin', got that?! You're s'posed to be invincible!",
-                "to": "Shūkurō Tsukishima",
+                "to": "Sh\u016bkur\u014d Tsukishima",
                 "reference": "Bleach manga; Chapter 478, page 17"
             },
             {
                 "quote": "What're you thanking me for?! Saving you ain't nothin' I oughta be thanked for! I'm just doin' my duty! I wouldn't be much of an underling otherwise, would I?",
-                "to": "Shūkurō Tsukishima",
+                "to": "Sh\u016bkur\u014d Tsukishima",
                 "reference": "Bleach manga; Chapter 478, page 18"
             }
-        ]
+        ],
+        "slug": "moe-shishigawara"
     },
     {
-        "id": "shūkurō_tsukishima",
+        "id": "sh\u016bkur\u014d_tsukishima",
         "name": {
-            "english": "Shūkurō Tsukishima",
-            "kanji": "月島 秀九郎",
-            "romaji": "Tsukishima Shūkurō"
+            "english": "Sh\u016bkur\u014d Tsukishima",
+            "kanji": "\u6708\u5cf6 \u79c0\u4e5d\u90ce",
+            "romaji": "Tsukishima Sh\u016bkur\u014d"
         },
-        "description": "Shūkurō Tsukishima (月島 秀九郎, Tsukishima Shūkurō) is a Fullbringer and a former member of Xcution. Tsukishima is an extremely tall young man with black eyes and wavy black hair that is at shoulder length. He wears a long-sleeved collared shirt with suspenders and dark pants. He has a long scar running vertically along the side of his left eye, which comes from a wound that he got as a child. Tsukishima is cold and collected in most things he does, normally appearing calm and even carefree.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/25/Ep353TsukishimaProfile.png/revision/latest?cb=20230201220834&path-prefix=en",
+        "description": "Sh\u016bkur\u014d Tsukishima (\u6708\u5cf6 \u79c0\u4e5d\u90ce, Tsukishima Sh\u016bkur\u014d) is a Fullbringer and a former member of Xcution. Tsukishima is an extremely tall young man with brown eyes and wavy black hair that is at shoulder length. He wears a long-sleeved collared shirt with suspenders and dark pants.[2] He has a long scar running vertically along the side of his left eye, which comes from a wound that he got as a child.[3] Tsukishima is cold and collected in most things he does, normally appearing calm and even carefree.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/25/Ep353TsukishimaProfile.png/revision/latest?cb=20231105042024&path-prefix=en",
         "stats": {
             "race": [
                 "Soul",
@@ -3925,7 +4157,7 @@
             "weight": "73 kg (161 lbs.)",
             "blood type": "BB",
             "Professional Status": {
-                "affiliation": "Kūgo Ginjō",
+                "affiliation": "K\u016bgo Ginj\u014d",
                 "previous affiliation": "Xcution",
                 "occupation": "Unknown",
                 "base of operations": [
@@ -3951,8 +4183,12 @@
         },
         "media": [
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/2/25/Ep353TsukishimaProfile.png/revision/latest?cb=20231105042024&path-prefix=en",
+                "alt": "Ep353TsukishimaProfile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3c/Ep366GinjoSavesTsukishima.png/revision/latest?cb=20220906041916&path-prefix=en",
-                "alt": "Tsukishima first meets Ginjō."
+                "alt": "Tsukishima first meets Ginj\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d8/Ep349TsukishimaAppears.png/revision/latest?cb=20230220062318&path-prefix=en",
@@ -3972,7 +4208,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/05/Ep353GinjoAttacksTsukishima.png/revision/latest?cb=20230201044712&path-prefix=en",
-                "alt": "Tsukishima fights Ginjō."
+                "alt": "Tsukishima fights Ginj\u014d."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7f/Ep358_Tsukishima_in_Ichigo%27s_home.png/revision/latest?cb=20221225064012&path-prefix=en",
@@ -4000,11 +4236,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/14/518Ganju_and_Fullbringers.png/revision/latest?cb=20170830223359&path-prefix=en",
-                "alt": "Tsukishima in Soul Society with Ginjō, Giriko and Ganju."
+                "alt": "Tsukishima in Soul Society with Ginj\u014d, Giriko and Ganju."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/ca/681Fullbringers_arrive.png/revision/latest?cb=20190523141605&path-prefix=en",
-                "alt": "Tsukishima arrives in Wahrwelt along with Ginjō and Yukio."
+                "alt": "Tsukishima arrives in Wahrwelt along with Ginj\u014d and Yukio."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9b/Book_of_the_End.png/revision/latest?cb=20230220062151&path-prefix=en",
@@ -4023,6 +4259,10 @@
                 "alt": "Tsukishima wielding Book of the End."
             },
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/0/04/BBSTsukishima2.png/revision/latest?cb=20230825070812&path-prefix=en",
+                "alt": "An alternate version of Tsukishima's Human form."
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f4/BBSArena_Tsukishima.png/revision/latest?cb=20211230002058&path-prefix=en",
                 "alt": "Tsukishima's Arena variant."
             },
@@ -4037,26 +4277,27 @@
         ],
         "quotes": [
             {
-                "quote": "Why did you have to die? Why would you do that?! Why?!! Why would you do that, Ginjō?!! Ginjō, you taught me how to use my power. You taught me how to fight. So why, Ginjō. Why?! Why did you never teach me what I should do when you were gone?!",
-                "to": "Kūgo Ginjō",
+                "quote": "Why did you have to die? Why would you do that?! Why?!! Why would you do that, Ginj\u014d?!! Ginj\u014d, you taught me how to use my power. You taught me how to fight. So why, Ginj\u014d. Why?! Why did you never teach me what I should do when you were gone?!",
+                "to": "K\u016bgo Ginj\u014d",
                 "reference": "Bleach manga; Chapter 478, pages 2-3"
             },
             {
-                "quote": "Back From Black Orihime's Encounter Fullbring Training, Round 2 Ichigo Kurosaki & Kūgo Ginjō vs. Shūkurō Tsukishima Ichigo Kurosaki & Kūgo Ginjō vs. Shūkurō Tsukishima & Xcution Death & Strawberry: Deathberry Returns Byakuya Kuchiki vs. Shūkurō Tsukishima Ichigo Kurosaki & Uryū Ishida vs. Kūgo Ginjō The Royal Guard Arrive",
+                "quote": "Back From Black Orihime's Encounter Fullbring Training, Round 2 Ichigo Kurosaki & K\u016bgo Ginj\u014d vs. Sh\u016bkur\u014d Tsukishima Ichigo Kurosaki & K\u016bgo Ginj\u014d vs. Sh\u016bkur\u014d Tsukishima & Xcution Death & Strawberry: Deathberry Returns Byakuya Kuchiki vs. Sh\u016bkur\u014d Tsukishima Ichigo Kurosaki & Ury\u016b Ishida vs. K\u016bgo Ginj\u014d The Royal Guard Arrive",
                 "to": "Herself",
                 "reference": null
             }
-        ]
+        ],
+        "slug": "shukuro-tsukishima"
     },
     {
         "id": "yukio_hans_vorarlberna",
         "name": {
             "english": "Yukio Hans Vorarlberna",
-            "kanji": "雪绪･ハンス･フォラルルベルナ, Yukio Hansu Foraruruberuna) is a Fullbringer and formerly member No. 005 of the organization known as Xcution. He is also the president of his family's company, Y. Hans Enterprise (ワイハンス・エンタープライズ",
-            "romaji": "Waihansu Entāpuraizu"
+            "kanji": "\u96ea\u7eea\uff65\u30cf\u30f3\u30b9\uff65\u30d5\u30a9\u30e9\u30eb\u30eb\u30d9\u30eb\u30ca, Yukio Hansu Foraruruberuna) is a Fullbringer and formerly member No. 005[1] of the organization known as Xcution. He is also the president of his family's company, Y. Hans Enterprise (\u30ef\u30a4\u30cf\u30f3\u30b9\u30fb\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",
+            "romaji": "Waihansu Ent\u0101puraizu"
         },
-        "description": "Yukio Hans Vorarlberna (雪绪･ハンス･フォラルルベルナ, Yukio Hansu Foraruruberuna) is a Fullbringer and formerly member No. 005 of the organization known as Xcution. He is also the president of his family's company, Y. Hans Enterprise (ワイハンス・エンタープライズ, Waihansu Entāpuraizu). Yukio is a young boy with green eyes and spiky, blonde hair with bangs that are usually covering his left eye.",
-        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep354YukioProfile.png/revision/latest?cb=20230201221034&path-prefix=en",
+        "description": "Yukio Hans Vorarlberna (\u96ea\u7eea\uff65\u30cf\u30f3\u30b9\uff65\u30d5\u30a9\u30e9\u30eb\u30eb\u30d9\u30eb\u30ca, Yukio Hansu Foraruruberuna) is a Fullbringer and formerly member No. 005[1] of the organization known as Xcution. He is also the president of his family's company, Y. Hans Enterprise (\u30ef\u30a4\u30cf\u30f3\u30b9\u30fb\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba, Waihansu Ent\u0101puraizu).[3] Yukio is a young boy with green eyes and spiky, blonde hair with bangs that are usually covering his left eye.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep354YukioProfile.png/revision/latest?cb=20231105045336&path-prefix=en",
         "stats": {
             "race": [
                 "Human",
@@ -4064,7 +4305,7 @@
             ],
             "birthday": "December 23",
             "gender": "Male",
-            "height": "154 cm (5'0½\")",
+            "height": "154 cm (5'0\u00bd\")",
             "weight": "40 kg (88 lbs.)",
             "blood type": "AB",
             "Professional Status": {
@@ -4087,10 +4328,14 @@
             "Voices": {
                 "japanese": "Mitsuhiro Ichiki",
                 "english": "Lucien Dodge",
-                "spanish": "Dalí Gonzalez (Latin America)"
+                "spanish": "Dal\u00ed Gonzalez (Latin America)"
             }
         },
         "media": [
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep354YukioProfile.png/revision/latest?cb=20231105045336&path-prefix=en",
+                "alt": "Ep354YukioProfile"
+            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/12/Ep364YoungYukio.png/revision/latest?cb=20221221063357&path-prefix=en",
                 "alt": "A younger Yukio."
@@ -4121,11 +4366,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d5/Ep359YukioAppears.png/revision/latest?cb=20221006172526&path-prefix=en",
-                "alt": "Yukio appears to Ichigo and Kūgo."
+                "alt": "Yukio appears to Ichigo and K\u016bgo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep362XcutionWithIchigosPowers.png/revision/latest?cb=20221001214035&path-prefix=en",
-                "alt": "Yukio, Giriko, Jackie, and Riruka after receiving Ichigo's power from Kūgo"
+                "alt": "Yukio, Giriko, Jackie, and Riruka after receiving Ichigo's power from K\u016bgo"
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/09/Ep363MonstersSurroundYukio.png/revision/latest?cb=20221226030401&path-prefix=en",
@@ -4149,7 +4394,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a5/InvadersMustDie2.gif/revision/latest?cb=20180625012853&path-prefix=en",
-                "alt": "Yukio transporting Ichigo and Kūgo into the world he can manipulate."
+                "alt": "Yukio transporting Ichigo and K\u016bgo into the world he can manipulate."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8d/Ep362YukioEnhancedFullbring2.png/revision/latest?cb=20221001221930&path-prefix=en",
@@ -4162,6 +4407,10 @@
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a7/BBSYukio.png/revision/latest?cb=20211013214011&path-prefix=en",
                 "alt": "Promotional artwork of Yukio in Bleach: Brave Souls."
+            },
+            {
+                "source": "https://static.wikia.nocookie.net/bleach/images/5/57/BBSYukio2.png/revision/latest?cb=20230825071215&path-prefix=en",
+                "alt": "Yukio wielding the empowered form of his Fullbring."
             }
         ],
         "quotes": [
@@ -4170,16 +4419,17 @@
                 "to": "Jackie Tristan",
                 "reference": "2.0 2.1 Bleach manga; Chapter 478, page 9"
             }
-        ]
+        ],
+        "slug": "yukio-hans-vorarlberna"
     },
     {
         "id": "aura_michibane",
         "name": {
             "english": "Aura Michibane",
-            "kanji": "道羽根 アウラ, Michibane Aura) is a Fullbringer who formed and led the \"XCUTION Religious Organization\"",
-            "romaji": "a cult in the Human World that knows about the existence of Soul Society. She is also the host of the Saketsu (鎖結; Japanese for \"Binding Chain\""
+            "kanji": "\u9053\u7fbd\u6839 \u30a2\u30a6\u30e9, Michibane Aura) is a Fullbringer who formed and led the \"XCUTION Religious Organization\"",
+            "romaji": "a cult in the Human World that knows about the existence of Soul Society. She is also the host of the Saketsu (\u9396\u7d50; Japanese for \"Binding Chain\""
         },
-        "description": "Aura Michibane (道羽根 アウラ, Michibane Aura) is a Fullbringer who formed and led the \"XCUTION Religious Organization\", a cult in the Human World that knows about the existence of Soul Society. She is also the host of the Saketsu (鎖結; Japanese for \"Binding Chain\") of the Soul King. After her death as a Human, she resides as a Soul in Hueco Mundo alongside the Arrancar there. Aura is an incredibly beautiful young woman, with short black hair which is longer on her left side.",
+        "description": "Aura Michibane (\u9053\u7fbd\u6839 \u30a2\u30a6\u30e9, Michibane Aura) is a Fullbringer who formed and led the \"XCUTION Religious Organization\", a cult in the Human World that knows about the existence of Soul Society. She is also the host of the Saketsu (\u9396\u7d50; Japanese for \"Binding Chain\") of the Soul King. After her death as a Human, she resides as a Soul in Hueco Mundo alongside the Arrancar there. Aura is an incredibly beautiful young woman, with short black hair which is longer on her left side.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/0/02/CFYOWAura_profile.png/revision/latest?cb=20190604152542&path-prefix=en",
         "stats": {
             "race": [
@@ -4218,6 +4468,10 @@
                 "alt": "Icon-Warning-Yellow"
             },
             {
+                "source": "https://static.wikia.nocookie.net/bleach/images/0/02/CFYOWAura_profile.png/revision/latest?cb=20190604152542&path-prefix=en",
+                "alt": "CFYOWAura profile"
+            },
+            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/72/Tokinada_meets_Aura_CFYOW.png/revision/latest?cb=20190512190410&path-prefix=en",
                 "alt": "Aura and Tokinada first meet."
             },
@@ -4233,6 +4487,7 @@
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/75/BBSAura.png/revision/latest?cb=20210423032913&path-prefix=en",
                 "alt": "Promotional art of Aura in Bleach: Brave Souls."
             }
-        ]
+        ],
+        "slug": "aura-michibane"
     }
 ]
